@@ -1,0 +1,873 @@
+1741062158,0d1af025790f52e8447dff2e9afbaff29465bfda14856124fdede58be368a353,Huh? Where did you see him? Is he okay? Is he hurt?
+1741072688,a352dbcb1afa9677c75d8c50fbe57bfa693206d8bf6f177983d8aba57e3fda95,Press #kHud/TrackOpenSpecial#z to show the<style=Hint_BgL> route to the mission target</style>
+1741106473,a8dafdb87b7740819c8b12dc506a066d8d13dec05b1fec74b4bc551100f0cb60,<color=#dd515e>{0}</color>
+1741126220,79c27c273a2dfea8f61cbc0a7e4bbb0102984595d597c4df0dc5a77e296d2349,"No... for a moment, it felt like I was having a really long dream...
+And now I can't remember any of it..."
+1741132234,aeeac13de08e7537889ace933bdb0bebc80585223fa73dae70c107e0ac352f75,"Increases P.DEF by <customRichText(calcData,buff,2102401,param0,1,%d)>% and M.DEF by <customRichText(calcData,buff,2102401,param1,1,%d)>% for <customRichText(buffConfigData,2102401,duration)>s."
+1741134556,0b7260f32cbd10f64a0a91446134c01cada724da27c857dc469f8a4815dd93c0,"These Pomeggs shiver with runny noses in the freezing snow. They balance snowballs on their heads for camouflage, looking just like tiny snowmen when they retract into their shells."
+1741156260,b0ba06afa113ac76182207ae9e785942d65828b7c0b6c93e9071b03ce0a5b846,Trapped in a Mud Ball
+1741180083,f7d71179a3e879f03129b4a16c8eabf67c697f1efc6be7a995f7d9bec1d51ecb,Semi-finished Budsquire Dewdrop Crystal
+1741248423,50a60c7e50e7a2c81bdfc97e1d044866495dccdc514c06fada0ce02195176ac0,There’s a huge flower ahead—let’s check it out.
+1741250642,c518d4842ac00c805ab818cb86116627e33481eec51f67407ab4805cb4a7c59a,Learn about Element Level
+1741284015,fd74359c1db75413667885cc9e49244c83adbf015b3de70b908c81ac6728b262,Come on—follow me. Time to stretch your legs and see if everything's still in the right place.
+1741311833,7d134019667111646e23667673f986eee2608d0942c91a6ee3c762a6289d2b20,Enter Space
+1741351914,81acd5442e646cc5ad9b85cf821014bb7099119dbee1d642df33c0e734b59284,"Flutternym Queen? More like ""Queen of Doing Whatever She Wants""..."
+1741393613,d2ee97145ee3c530564a66884dbd5a025baeaa620d341b7e67078590d6ab0398,Helmie was right there! Maybe you didn’t see Helmie.
+1741423150,426a75b4964ac365a11ee9991250359756a299298bc76f73ca55b7a583012795,"While climbing, you can use #kPlayer/Move#z to change your climbing direction.
+Climbing will cost stamina and you will fall down once all stamina is used up."
+1741482983,dba1ddefd778ad652f142fd4d77ad1b779de9dbcd36b4fa6fde8c2ab94b9218a,Applying...
+1956131669,dba1ddefd778ad652f142fd4d77ad1b779de9dbcd36b4fa6fde8c2ab94b9218a,Applying...
+1741656340,b6a4bcfa3ef8db011f63f32e920a8990e4aed1f6f57bdd919992c463aea9a963,Go to Chat
+1741667119,41415a99f9fee4a8b27b967fa2919eb9f7d2ca9a67e8a6ea06e9d438be338c37,"Cozite apprentices, the goal is to build a <style=Hint_BgD>Mushroom Light beacon</style> on top of the castle! Ready to start work~"
+1741687925,471f6a34fb5ff50b797c9061d69d5efb57fd3bfe52965a798f3ea0a850b04e24,"Global Load (2 = Yes, 1 = No, 0 = Default)"
+1741736509,45624f8ed77fd181bdbe994008b6c9eead55e344c0d1e2b0dbd9b11216a4234a,"Lively Emberpup finds it fascinating when these light, cloud-like sheep float into the air."
+1741762843,d1bc0e23261eb03fe00a57d382a48017982129c29dfcacf04477ea60c5b69890,Just a compliment—an expression of my admiration!
+1741773293,dec2d8cfd20ecc5d8bdc15412b3d7e14a4804a9e09f1c11e1dc5b5448e6923c2,"Once you can use this Held Item, come find me again!
+There’s still a badge here for you to win!"
+1741775896,2323ec401e2251b6ce49eb6ba9068928376a5e9fd180a915dd8fc5b2d1d58f7c,You expected this?
+1741784614,20bfea1dc9e14b8b87988623fea6523eaed67eecca3449f122b83954a1bb72d0,Furniture List
+1741820336,950731aa0d19b036fde54f93b4f63bee3bd15d3b76d81d064a20c3075bdc7734,Ancient Idyllians and the Infergon... living together?
+1741835551,18ef696f92390288fa6de6b9b35b409e0bcb9da9ffff7e015d390ae5b900173c,What’s the other school?
+1741842482,7d6a18fdf18d30a347ecd86827d7c0d576fc1f0c45355406ec5d8463b4607328,"Here’s an example! A Dewy collects nectar from emberbuds during the day, duskwhispers in the evening, and moondews at night..."
+1741916937,949dd85ea74398f2a6a895e15eec363017fc2135704bbe0ae41c4b8f3f2b242a,In preparation. Coming soon.
+1741920485,62274aebfc5910a3694e215d336d3f012dee7a0cf536becba172c2e2a8211a24,"Right. The Pomeggs turned into Pomawks, but they still get together to sing. The bond stays the same.
+Want to dance with them? Get moving! Once you do, whatever’s weighing on you just melts away."
+1741922209,864927fe11e01252ec4c72b4e1169934aa95eb06074800d4a5fb96fa347bb3f7,Time remaining
+1741943763,e28b1d1a9d179906f296242e833a3f9fe05ce8827f38e061e47866fdf9355bad,"Under Sunia’s guidance, we light the fragrance. A strange scent rises... and then—"
+1741948148,f4d147a3763a0508cc2d393353e53e19295fab3328714ae62d21db955c40bc9e,Susuta and Shelly in this area will be friendly to you.
+1741952299,63f0581999d69334191eaa22881d039261c4ad14d1073dcb66471fa2c9588d3b,"Thank you so much, it’s so kind of you!"
+1741964113,08a9a793b361b501e362e8118a9c3a244f32b1efcff5c929e047ed40e50eeeca,"Your potential knows no limits.
+Go and find your own path. I believe a broad future and boundless possibilities lie ahead of you.
+— Dr. Lewis"
+1741981837,5b5f4ee1715f5c42bb2a4afc63a5a1625231c96b50e2ad0de186deaf2bf7e7c4,The Unbegun Ceremony
+1742002004,695c24def6c42f8e6ba4970e7399db7f9e25e9f215d2fae924205c6ab9f4baf9,"At last, I have a complete dataset for my terrain domain."
+1742037161,945669b19aca907ec6b02d99d3e27ed3ac6cb50c5c1d9ddffcf96b49a45e0d27,Are there vines growing on it now?
+1742049050,681706334a99d17f22a5cdbbe1ec9efc7f63f2c2f9f845058e1af98df353f95b,"<color=#81D67B>Boom■■■■ boom■■■■ boom, boom■■ boom, boom■■ boom, boom—</color>"
+2027511565,681706334a99d17f22a5cdbbe1ec9efc7f63f2c2f9f845058e1af98df353f95b,"<color=#81D67B>Boom■■■■ boom■■■■ boom, boom■■ boom, boom■■ boom, boom—</color>"
+1742052098,eb6234ce96bbf1475dd77fd28685df1ab4acc6136e63c8b4aec558d17f07b1b4,They’re great for defense. They’re the only ones who can get into that castle.
+1742053006,3b08d43681d2b15c010f607b306080d234c0f9e68822c873bcaea18ad1c4f1aa,The other party is busy and cannot be invited at the moment. Please try again later.
+1742092777,95207f05f501d6c63a19896fab1974ff804669ba9e6a61530ac889f1436b7221,The Skippy is sleeping on the bank. <color=#d89c28>Aniimo in their sleep are easier to catch</color>.
+1742099694,7a6c2bcad43dd4b4fa5a5aef055f5b159dabb401a17634ae15104ed8ab2e878d,"Good timing!
+Take out an <style=Hint_BgD>Aniipod</style> and try to <style=Hint_BgD>catch</style> it!"
+1742115974,c30d8ba26b45814036de5d0d410b067631a49e1a906942e5dd7dbac738f9cb15,Go take on the Holo-Battle Sim!
+1742124054,d43054b21231e8a7329804a4ba4efb53fb5184dccdfa0ff97b4ddd5f0f1d65c0,Our training pack that incorporated the Battle Art training philosophy was just sold out. We need an urgent restock.
+1742143267,3f906d5df5f3814d0cf69710759d4986fc102e3271f4e19e25cdc975ffdb5fe8,Soul of Falling Stars
+1742148484,9fee8ab39bca3f58f92fcd76c3555856242f812670c0ce78fe0f7e51784ed494,"You can release Aniimo from the <link=""appearHelp_202""><color=#5090df><u>Aniimo Management</u></color></link> section. Released Aniimo leave the Pathfinder’s side. <style=Hint_BgL>Items spent on Resonance star ups and ascensions are fully refunded</style>, while some items spent on leveling up are partially refunded."
+1753054402,9fee8ab39bca3f58f92fcd76c3555856242f812670c0ce78fe0f7e51784ed494,"You can release Aniimo from the <link=""appearHelp_202""><color=#5090df><u>Aniimo Management</u></color></link> section. Released Aniimo leave the Pathfinder’s side. <style=Hint_BgL>Items spent on Resonance star ups and ascensions are fully refunded</style>, while some items spent on leveling up are partially refunded."
+1742162880,5a4887bc5dbea8c293f8cac33b0b60e14b1d5afff701bd248a420d976e7da100,Only the ground floor is open for the event. If you’re not a student here—
+1742165789,d6ce38a34e41b326fed5e2f01229736d78605375d08420c03c097c2ad1448223,"When the <style=Hint_BgL>camera</style> icon shows up above the Budclaw, press #kPhoto/Space#z to take a photo."
+1742185427,c2073a216107e231fb8e05b0019fd4c1dade646515574993d7cd195f240899ae,"Eh, #playerName#, we have an emergency.
+I’ll keep it brief—something abnormal has happened at the ruins."
+1742204730,8db2359a58bbaf0e0c6992ee58a869a2517213dc2fd24667215f81b97d814519,"The ore shards scattered when a Geodeback digs are a feast for Pebblings, so it’s always followed by a few little tagalongs."
+1742212191,59421a54059f7450568b4af301b0b602e78e84e9ff38f791d7731339c4127d5e,Hey there! Pull yourself together!
+1742250000,b3098d3b950ab530045a1ab91ff9be92b2895b5d6190a4df075443d712d01fcc,"You’re about to choose <color=#d97d00>[{0} - Prismana Form]</color> to adventure across Idyll together! A little heads-up: Once you’ve made your choice, there will be no replacements allowed!"
+1742275821,f6a046bdb91b1cb7a8a9855b7d9accf5bde6f024c4a5be6fd3f3655181a2e0b0,Kota
+1742311312,939d8fb49637e7223789c9a8e50e1785b28c5b591a76f4ae98355b6f4f6e7b55,Use Nurture {0}/1 time in any event area.
+1742319816,80d9a18d8e1d09283391fe1daae52ebd3d599dfabc9ade730841748104d05e63,...Suddenly don't want to give it back to you.
+1742327350,0e78947f57e39626c813b0723cfc359effdb9375fa78163de7086c0d68306704,"In the Aniimo Management screen, <style=Hint_BgL>select</style> the Aniimo you want to level up. Then press <style=Hint_BgL>Level Up</style> on that Aniimo’s <style=Hint_BgL>Attributes</style> screen."
+1742412087,b4ada5698d34df78e2fd61466cff8e24da2f412d21c1104caa96af47281f7663,Susuta Morphling
+1742451445,7cc5067317cbdf172b2c1321530802464c490290a7cc938e46b544e6500918dd,Extreme Gusto
+1742487580,9ad9eb522b985dff9a49d417eb50f1a52fb250841b9bc91b79df76e248f09f40,"Why’s it called Polaris Institute, anyway?"
+1742513066,11cba91bcdaab187c52972a5c409fddf6d703ead6a94d7a740278d18f4242158,I heard Echoback Landing is nearby?
+1742564015,aeb5e869569e57ac917d6498e974c0b8f879f0d7a6748c032a7577514e17a705,Discussing Pebbling 6
+1742620574,e9d71f7d70aa404d33b90a9dee4478363c265a500d2a61422aece3b28ae701b2,Resonated
+1742625740,a2e8e394dc06e868b844cc81ed31d70f7abbe973c20afbceffaa97fef92aefcc,Witness the Alpha Luminelle releasing its fully charged Ultimate.
+1999740914,a2e8e394dc06e868b844cc81ed31d70f7abbe973c20afbceffaa97fef92aefcc,Witness the Alpha Luminelle releasing its fully charged Ultimate.
+1742659085,849892a77e9055d7d35623117da9c7f9a8e2ed2f2f7e20d725e9a7c24e67579a,"A gilded hourglass with fine sand slipping softly through, delicate and finely crafted."
+1742660659,fc7f852ab0084e7d4c215461a71c559dc01260c01f8523e01b102145c3eeb312,Want a nice sleep away from Emberpups? The top of a dandelion might be a good place.
+1742663788,4c7ea3fba390a9a7d6821d8519cc7038b5df273ae00a99989d07d4b6c036d907,Harvest Moon Set
+1742671071,28178e88501d52203dfff871eb6a81eefeb60b7a54c503a463d9512e6036cef7,Play Animation
+1742674398,83cf8b609de60036a8277bd0e96135751bbc07eb234256d4b65b893360651bf2,999
+1742674810,362c5dd14d87a7c130c6865afb2c0fd73ba82a963f106fac7b31640953dfe8b8,"Yup, like my Yan, who loves digging around the fields every day.
+Soil that’s dug by him gets loosened, which is why I thought of planting. He even inspired me."
+1742680226,2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881,x
+1977755945,2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881,x
+1742689720,1e4df853256d6b4e4574d4fe9ce48b415640131fdd32d934639d4c7051f1cf99,If I were his sister... I’d be so sad...
+1742693307,e94238be61303a25ecd26fd3edb61ebad9326960fcc7a004da35d8a680429f16,Flutter Heal
+1981031402,e94238be61303a25ecd26fd3edb61ebad9326960fcc7a004da35d8a680429f16,Flutter Heal
+1742702373,f3eafc253ef5992553ccec7a92e73baf0c64769f562b1b526f88be6bb3a59a49,"Gains <style=Hint_BgL><link=""source_8166""><u>[Super Armor]</u></link></style> for <style=Hint_BgL><customRichText(calcData,ability,10320300,param1,1)></style>s."
+1742751348,4d9ebfe905f37e5526cc4c918e2b06e0ea6766dc510c86fa912d7c6ebb6140c2,Rose Garden
+2019059606,4d9ebfe905f37e5526cc4c918e2b06e0ea6766dc510c86fa912d7c6ebb6140c2,Rose Garden
+1742758096,9a911812cbbbb525797f5e90e6ab91c2481003f9a5deec9b23a46b7600546971,A clear pale-yellow liquid with a crisp apple scent and a touch of fruity tang.
+1742771484,a7d2ca4e39228efe76ac4b7b5a60536764bbda47bf8b825c56c86f1116a21688,"Very good. Your knowledge of adventuring is as solid as ever.
+You’ve passed the theory assessment and have officially been promoted to <style=Hint_BgD>Grade II Wayfarer</style>."
+1742771938,4643ef5d8195aa41caef679400da52ed496c4b84de70ec0dd9b63a198cbd3d9e,<style=Hint_BgL>{0}</style> shared a discovered reward with you.
+1742789707,cdb3c0851fc149387be44cd52576999743927a4d79ad0d87f234c61e433c5f11,"Yes. The outsiders once lived among us—legend calls them our finest co-conspirators. A century has passed since we last met... so ""reunion"" seems only fitting, does it not?"
+1742808665,2bfffc5647e27e90c180dadeb882102c8a5d1c4b37b4251e8557a6fe5f202316,"Yes, it’s me again."
+1742875967,4f4a3d04ad94e2a312ac881b940d55aaf9c50bcb6da854413d6b1256937cffac,Natural Conductors
+1914115607,4f4a3d04ad94e2a312ac881b940d55aaf9c50bcb6da854413d6b1256937cffac,Natural Conductors
+2044011290,4f4a3d04ad94e2a312ac881b940d55aaf9c50bcb6da854413d6b1256937cffac,Natural Conductors
+1742902591,3eb0be2537b28b4271b9e833b79e92532e94bade5a05477f8ece9ac3e8af217e,"A maze of thorns lies in the eastern part of Rosetower Woods,
+and somewhere inside lies a secret of the Budsquire family."
+1743003360,15e3c9e60047921bb1259882d34ef2dd6c5186473dedf3ce3583193d29427d35,"Increases both P.DEF and M.DEF by <style=Hint_BgL><customRichText(calcData,buff, 2020000,param0,1,%d)>%</style> when a shield is active."
+1743060127,fba0866fc57687bc92ae2887681ad2dbcc1c16bc31f7da1414105b5f50fc617f,Skill Crit Rate
+1779088765,fba0866fc57687bc92ae2887681ad2dbcc1c16bc31f7da1414105b5f50fc617f,Skill Crit Rate
+1743074641,2d725436ea37c8c42dafc359d0a790311e759977b7e65211048601909e120c6d,Twine with a Dewy and collect whitesnow rose nectar!
+1743097231,ae95f4ef40160250dd74bcc8f153cee68a5960b838514ca5467e7bf438e5800d,Clash for the Crown
+1743131231,7f19c2bdd186d32565172396e63850b35bd769fd0185c1eb18a20de9e49916fe,There are no seats left for Aniimo.
+1743163836,afdc7cb8af3bc4b3c68ccdc1573ba3894753adc8790911fda74ab2bab60bfbf6,Level up your Aniipod Hyper so it can be retrieved after a missed throw.
+1814363710,afdc7cb8af3bc4b3c68ccdc1573ba3894753adc8790911fda74ab2bab60bfbf6,Level up your Aniipod Hyper so it can be retrieved after a missed throw.
+1743169524,c02fd7e5bfe289246a063e3274355e825c84419327a29e8bf635bdefe445aa81,Its pliant branches and slender leaves sway like a beaded curtain in the breeze.
+1824217839,c02fd7e5bfe289246a063e3274355e825c84419327a29e8bf635bdefe445aa81,Its pliant branches and slender leaves sway like a beaded curtain in the breeze.
+1743223199,cea414371883e2b873fe64295d025a904c0481522b501542f301f152a9e2e867,Enable Selfie Gizmos
+1743236476,58d1546282e25d16c833cb89598a513261753071b687d533f66b272a3428997d,Auction
+1743250742,2a3396d22d8f46370a9255378100b85d43b0dcc522e021641393e0a6d74c3aca,Prepare to Depart
+1743265168,71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207,Recall
+1963942585,71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207,Recall
+1975472441,71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207,Recall
+1743265834,ccb4c324f516c63335c648ee08a66b8cc78737d26156f0c84707cd0ee4235492,Not Now
+1743271481,32d59fdfa152ed2a0daaae979a0af5a475a2eba97cfaffa13a118db494a0360f,Finish Styling
+1743272655,c479b90b6fbc33e46ba957c0a421c5646f69c29fdb967f5e99571b7929c1f9f8,"You're asking about <color=#ffe451>Village Chief Jaeger's</color> house? First go east past Hedo's flower tea shop, then go straight north to Totem Plaza, then go east and you'll see the cottage under that Windmill."
+1743284578,f35d2bd1b6c7aa663f99eb8c5037acf2e932cf4a5074f479230861e35bb1dd54,"This crystal seems to be giving off strange energy waves...
+Let’s ask someone nearby!"
+1743285415,e1ee9709b6d43bef2a48c98662d7faf03612008dce5909fa3cbe3c7b318ee313,Increases Damage Amp by 15%.
+1743287673,36d44b16603830b951fd9227d7cea14337548b22a8641a445a5ed21f5e4a8f93,I’m ready! I’m ready! I’m ready!
+1743331618,aada1ed436abacb0a715a204c9d4e4b127c4b1cdfbb466c6209ba92c4c2014a0,The rhythm makes you boogie and you just can’t resist!
+1743370218,557e6081511f77452fa5d67d34b42c3ddf167dd8b8b60fa8eaaf4025f618ebca,"See those strange Bolties? Quick, get the camera! "
+1743406750,349da4c89b3f2e5081965541577ea0831fa2bd5f1f7678c36799321fa2ad1f75,Defeat Alpha Stellarys
+1875181923,349da4c89b3f2e5081965541577ea0831fa2bd5f1f7678c36799321fa2ad1f75,Defeat Alpha Stellarys
+1963448426,349da4c89b3f2e5081965541577ea0831fa2bd5f1f7678c36799321fa2ad1f75,Defeat Alpha Stellarys
+1743410580,223a658a8c4cdf13eb03553303530d3a91b008ce789c9272bef5172e94107dfd,Starine Bowl
+1743437907,cfca06e3a9cf6296c9c83beb70506222a0559f523325b6ab08e95fecbe2ed57e,"Next time <style=Hint_BgD>the sky shines with Prismana</style>, I’ll challenge that <style=Hint_BgD>mysterious Ignitis</style>!"
+1743444909,0fee3426d92b47bc82518a8afe850bd0c1af8983c0ed82da84b80d805ffdf335,Wave? (It seems very curious)
+1743456772,da23df53a491047fc8d85eb46e9a3a39f6517329f384b67808da86562a3d5b17,Divulge: The Budsquire Who Dreams of the World Beyond
+1743459436,733aa44d4bd04f83622b0ce5982f765aa9a4825a65059548ae737de3a569b48c,Arlo panics after the offering fails and even wonders whether sneaking a taste of the nectar earlier caused this crisis.
+1743505232,0c6ebec153afaf3d84ea0dc126f3a7948eac35a535438e5542dcfeb95ed59d50,"When the main Aniimo’s HP drops to 0, it loses combat ability. In non-solo challenges, team revive counts can be consumed to revive it."
+1743540562,0ccd4678c54a0132e8f2f6dfb062dfc4e892c90bbb1c839ce615324dc4ebb653,Helmut heard something.
+1743543807,db6fe5eae2fdbc3a9dc63c591000d9d5079ae548e07d0911d4260ee35d8a95aa,"Jump into the water, use #kPlayer/Move#z to <style=Hint_BgL>swim</style> in different directions and get to the finish gate on the other side of the water"
+1743561506,17973b2b29d374847698d248d24086d09d667b003e5d79cd87ee7e41c50fa725,An Attack Amplifier chip with the illumination skill. Increases visibility in Lost Sanctums.
+1912799250,17973b2b29d374847698d248d24086d09d667b003e5d79cd87ee7e41c50fa725,An Attack Amplifier chip with the illumination skill. Increases visibility in Lost Sanctums.
+1743597343,25b03b61e2f8b835eb7d6843689b68a9125d804e1f4591a6808690ffb28ece39,Catch the Mysterious Egg in a specific Area of the Map
+1743636148,5c86e1ed14dc6dfe30cc0b37ff1a72a0809f582fe517e7b82bca85a264742f7e,Display Case Giftbox VII
+1743665898,03c69e5563270e2fdddf412c4c58d780070c62fe065f30b4bcdc3016a503bf8e,Excellent—that’s a perfect pass!
+1743690658,ece1f5ae551a7c11963f897431ec6c02129d0117798c584f9b75e4d1deb0dca0,The Spatial Folding Technology built inside allows it to hold a vast eco-space for the Aniimo to inhabit.
+1743715424,b3c1bd4e376fb90e158ebb6bacc19df223f705a9a454e9dfa05d0f7dd984fc49,Beach Sheldon
+1771616043,b3c1bd4e376fb90e158ebb6bacc19df223f705a9a454e9dfa05d0f7dd984fc49,Beach Sheldon
+1898737604,b3c1bd4e376fb90e158ebb6bacc19df223f705a9a454e9dfa05d0f7dd984fc49,Beach Sheldon
+1743745390,6b935f16329ba6bb81dcc09f1e9d6f21b066d4695f88600263a25aa20b827323,Nimbi Doll
+1743755586,1fa2fe1a51a0ad059e5784633f1ff672fffac80c38b24c70553cfedd502e1893,Even after a hundred losses... and more... can I still be worthy of that honor?
+1743756819,a345bdf10865cabe51f751778c71281a3b7978f5718b65f2b0c271cfeb572f58,"But plenty of expeditions have come and gone, and no one has ever found them."
+1743763247,19b1b2b09d7edaabf4fb1547182b450082371fb389e39b198d1e6b5cc9558149,Stone-Carved Figure
+2022509709,19b1b2b09d7edaabf4fb1547182b450082371fb389e39b198d1e6b5cc9558149,Stone-Carved Figure
+1743780478,95123f8c70249d53c7a398cf2ee13d22f947c74029d2fdf39b42ae3ff622fa11,"This will consume <sprite name=""ui_item_2_small"">%s. Confirm inheritance?"
+1743781976,3ca4d68d314ccecc1496b0d82c36cf97df535164bffddf0a61667330803ab79f,Reduces Lightning Resistance.
+1743797650,981f433bfb1bb03c4d821387676517368fce11af4eb4d7c5e7a2054f3d0dec31,Most Support Provided
+1743874454,b727c2531cd91b504f1e413ebd0c6fd0ebe4eb966f7b9910a85d149d7547aba8,Then let’s wait a bit.
+1743886996,f93c2bc58a46c06e932cc03f873805fc96eb1e5f2eed9610edddf40e09af9b7f,"So, are you ready for the final fight?"
+1743911435,7113e623658a165d0686cface8df4dc4f69f628b428d8f04cb5ae25c7494947d,Reach 70% Aniimo Collection Progress in Blitzwood
+1743912505,925007e9dbd61f75ace0cff01c868df00c72528ed0acadea7c731ef497855273,They say this gacha shop has secret Celestis prizes.
+2063435618,925007e9dbd61f75ace0cff01c868df00c72528ed0acadea7c731ef497855273,They say this gacha shop has secret Celestis prizes.
+1743926226,b87dc90108eb154f349da0188bbb88e3cb637bac82f90a1e915e22f35db432a9,Fireworks Launcher
+1743943549,1f8cfb92eb28010999ec3007935b2dc954a49e2056a8b3f2346357723d392c1d,Aniipod Track
+1744005516,b1171d5f7537ced1bd8da05c4e5d42a05909e3a972b687e669d28df1572f5dd3,Your friend’s Aniimo Storage is full. Ask them to make some room before exchanging.
+1744011809,765a1b35c300defb09e87f33e21c813e6ee275707d3b9ba7d575abee20cc6077,Damage Amp +5%
+311228688,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+385403736,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+415829566,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+481837921,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+490928182,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+516785937,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+1744016609,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+1865449628,69f05ff9cf5eda69ed46c3260676280bd389a1553c80528bdc71add8f9fd7172,"This is a Divine Beast Lair, modify the specific description as needed"
+1744034369,7e9287fd0bca6504bab51f30841d3a8d9912ce834c88e784f7fbdd5ce9ec2437,Gauzy Glow Elegance
+1744037018,1aefdc2d0672c053b8894007a7f7d0a12713470a015ca554fa27c579455ceb20,Last reached: Level %s
+1744056912,cd4bdf1dd7e9bf3e5810262be47fa96524082eba0df5e95b05b64c40a41ac743,Waaah! Don’t touch it! I told you not to touch that! If you touch it again... Then...
+1744090833,cacc05e860304b4e7e845a1b036a360fa99c9e0046c30acc297133c63b5e1811,Lua Memory Stats
+1744132287,85375404672107627e64eeae1eccf46b06a1e2cf69f6c875e33ef42933ae7cb6,"Come on, Shyshy, get moving! You’ve gotta exercise if you want to evolve into a Piopiota someday!"
+1744141447,241e9b782b1e2dc61781f897f04f02363ae6f8aacf45bc37917edb01846ee3f9,"A shadow from the woods falls across your brow, breaking into mottled traces of firefly light."
+1744146264,ea35fe4c7cd007ba642cf157b5d3de962f8c72288d8ae2c19b42d16b0c9fc2c7,"We keep the temperature just right with warm ores, so the little larvae can hatch safely. It’s very warm!"
+1744185080,7320751c8325b33292a60a18865727b01ef9a63e5703e9c152c1d8419a9ab6a0,"The <style=Hint_BgL>Springy Tuftball</style>, formed from Fentuft fur, activates Puff Up after absorbing <style=Hint_BgL>electric energy</style>. Once <style=Hint_BgL>springy</style>, it launches any Pathfinder or Aniimo that touches it into the air."
+1744298248,7f4a1e5bff2d56e523ee2a34e1c389956986008e506ca77fadf7047d71c6a63f,Cook
+1763343078,7f4a1e5bff2d56e523ee2a34e1c389956986008e506ca77fadf7047d71c6a63f,Cook
+1744300178,b6499e0cd5e6a9a915cb2bfa42523c7067c18da1b7bc20193de859e7b6a426cd,"If you heard that phrase near Nimbus Fields, then they must've meant Bloomville!
+Bloomville has always been the place where flowers bloom—a land of blossoms and wonderful fragrances!"
+1744309486,5f38c2366e07cb327a31d2cdf309f44d45787d2db45c440b35d814e2af7b1030,Special Trait Research
+1744377377,719e0da28752efcfd183a5d36584af4aac45e1a5e01c03b33a916e0e8490bb68,Lumin Collection: Stone Tree Climb
+1744437596,2b8f81c37ace73057c2cced89c97f64c6bbeb318b4557470d66264740c85ee4f,Enable Hierarchy
+1744492915,faca2ee13efba6cd12bc928b7ba35a9f4b6bf8c5180d84c931ca4967728c3fe2,"Thank you. No matter how much I love battle, I can't treat my Ally as a tool for fighting."
+1744528471,5f5dabd4f5b13b61e77d768e7846757e3309e19dfd6ed057c90c4be1632d3122,"Evolution is an important transformation on an Aniimo’s growth journey. It not only enhances their abilities but also changes their appearance. Some Aniimo, influenced by different factors during growth, can even branch into different individuals."
+1744541910,274d3b8b369c829ce716435d4eac364e0e2dd240faafa030e07e14498a2a86ca,You mean blending fragrances?
+1744543110,04391f5b2441a07da36963262fb88cf05b23f9e6f6acef83a89ec0d07c23bfec,Event 1: Mechanism Monster
+1744554829,73ba54461ab6991ec118eebf7addb5ac49fb4b793a8de7d4ba8553ea6d39d125,Dr. Glass’s Trial: Susuta
+1744557378,0cd2ca31c3012edbb697b504aefe77c8c9f303cc10b71b0db85aa524738a696c,"Are you strong? I'm Emberpup, and I'm going to become the strongest Scorchhowl!"
+1744565968,1c7d05bef1c0dae8179ad44ae258505e7c195dacc5e23f7f2efd12d8e35f6d1e,Unbelievable... This was built from countless tiny dots of color?
+1744599993,57037f267647c259188f64d90a9758089f9dee89b977b7e5c8b4bb6b9c896c57,BOSS Name (Placeholder) Title
+1759566277,57037f267647c259188f64d90a9758089f9dee89b977b7e5c8b4bb6b9c896c57,BOSS Name (Placeholder) Title
+1794667839,57037f267647c259188f64d90a9758089f9dee89b977b7e5c8b4bb6b9c896c57,BOSS Name (Placeholder) Title
+2065875495,57037f267647c259188f64d90a9758089f9dee89b977b7e5c8b4bb6b9c896c57,BOSS Name (Placeholder) Title
+1744603574,19e360528cf2e65fcde8282d2f151260953bf8eb39bdd7c05002dfa6f458a5ba,Paid Companion Handbook Level 58
+1781877976,19e360528cf2e65fcde8282d2f151260953bf8eb39bdd7c05002dfa6f458a5ba,Paid Companion Handbook Level 58
+1744613467,e8f0d056d0130805a822221a2d74224acac6d6772e1b77d789cb78822109785c,"I got my hands on some Idyllian specialty spices, so I need to experiment with more ingredients to create the best possible flavor!"
+1744631127,8de1ccfb4468c815d774c429c475eedd905c42074c95622b4084dc153d353e3d,"Follow Me, Little Guys!"
+1744635800,67dcac56faed583804a7191558326c21190f42a63ce496a346912b171608b1da,Dream Fruit
+1744723483,f40285b697c829ff88d302b9bd8a3d4cf29d8af8fd023c25aa8580a4ff5b6dc5,Clumsy Baleetle
+1946956093,f40285b697c829ff88d302b9bd8a3d4cf29d8af8fd023c25aa8580a4ff5b6dc5,Clumsy Baleetle
+2021711748,f40285b697c829ff88d302b9bd8a3d4cf29d8af8fd023c25aa8580a4ff5b6dc5,Clumsy Baleetle
+1744746997,ff7de854906da98fcc64ce5c6c3d001adbc6627a28c7980c0183c7794df39fad,"A flower containing the essence of Wind.
+Can be exchanged with <link=""item_4040019""><style=Q_4><u>Element Gem</u></style></link> x<style=Hint_BgL>10</style>.
+Placing it at the RV Park grants residents a park buff of +<style=Hint_BgL>2</style>% Wind Attack and +<style=Hint_BgL>2</style>% Wind Resistance."
+1744768883,8680eff026c3d2219dc2f3b8224a6a28187986c9b4461ada9c8373ddd6216407,Home Individual Index Collection
+1744775200,3114f7ead0c072e4852bb83411bad0859893a1273d009c78df78b18696bbbe19,Will something wonderful happen?
+1744784391,2655abcf94e950f570cb3d8158c873bae213edde3b455529c0e45bac1aa8a7be,Enemy Alphas will attack Tank Aniimo first; only BREAK-type Aniimo can be Tanks
+1744797033,93b1e33c436b56d4a880e26a67f34c3f971d8fd754544a371ad0b02ff4f0a8f8,I'd rather go through the long process of reapplying for Badges than ask you for them again!
+1744848159,f923657cc3906c05ba3056bdb6ef9dd6fbf05cb2078d817a59ba6f4754313cf1,Filter Value
+1744879232,fa3e13b3f7bbc114bd2f19180720491cd4b1da34e10281616c4826c4565d7a70,"If happiness only comes with rewards, then being happy becomes so hard!"
+1744921683,6c16d3fdb912ab33303627234b4a1522c7cd206b40094283004e7fb57d387b3f,"After you touch the musical note, a magical air current appears. You should be able to use it to <style=Hint_BgL>Fly</style>."
+1744930220,c79769df6d1e74d1abaa0f507fcbda88de632971dd798440b51b5499c23eeabf,"Got it. Thank you, Instructor Lita!"
+1744942986,cd08aa92dfb9f09dbc6880f666fa832bdcfc01016baf20458c3d4cc103fc7ee9,Accessory Tag Score:
+1744951458,7b9c09f119e29038b093f59f99379f2909ca52940e1af3be05036c1d6919ebad,Top-Hung Wooden Window
+1890779042,7b9c09f119e29038b093f59f99379f2909ca52940e1af3be05036c1d6919ebad,Top-Hung Wooden Window
+1744953113,315dccff2d410c633404de1aecdf484d457dc22458c2cc0645d99465edcf2e25,"You seem to like mushrooms too, so here’s something special."
+1744975746,a1d4f2a7afa519f60747d1e43abff6043d4d6bc7b5b07254b7184b778c201bff,Is there anything I can do?
+278779189,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+296878389,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+324630370,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+334257275,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+335805731,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+336850909,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+344626061,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+347311326,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+364262656,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+366650614,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+379520111,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+393899445,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+394854409,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+398123977,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+404835356,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+434116754,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+435435517,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+436066407,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+459017593,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+459595062,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+460428962,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+462593599,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+465660437,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+469348518,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+481977519,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+487143873,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+494072484,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+497598844,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+504554191,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+505990343,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+511526363,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+511826731,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+512327533,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+519608705,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+520606345,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+520920729,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+523987256,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+527002938,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+527062691,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+534128581,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+535152033,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+1744983707,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+1954215771,b8d7f3e55fad7acad0734a78aa31af90dcb7e0ba1d768ee681b067a5bfe230fc,This is a themed puzzle. Edit the detailed description as needed.
+1744986786,64a848a11fb4b733073a19a5d0057f654bcf2f4da9254bee462595f76d3244bd,"But theory must be verified through practice, and I need plenty of data to support it. So I designed a tiny... trial. Or should I say, an interesting experiment?"
+1745034871,d65cd9584bd3d447d9ccc74ce842fe7a8d503fe36dbfd332146c6f5301fc5514,That was a bit disappointing! I feel like you were still holding back.
+1745045375,27c76491a5fba080400e2857772b9ee7ae93a6746f1184e9f8d803088c255b7c,"When Bulbly is in poor condition, the bulb-like organ on its head flashes red like a warning light."
+1745082023,ee6366712a58ee92425ff089a6611d60315e6ec4adfa5f8d9dff910b85be11d7,You must know what Idyll looks like at 4am.
+1745103057,9806c21a1b6511ddb059c463f326f95ac80b19760a75ae4654a0310697ec118c,Transport to the specified sandbox
+1745124566,4de13cde437f58e9f4fef13949c1a89c77de076668fc2074e3d4e314d24a485a,Illusory Intermediate Capacity Expansion Chip
+1843053163,4de13cde437f58e9f4fef13949c1a89c77de076668fc2074e3d4e314d24a485a,Illusory Intermediate Capacity Expansion Chip
+1745156057,31b7cdc5a893f601b2d0d595979f9e09836daa82ea4e3cf78826be410d1feca5,"Good luck, Pathfinder."
+1745173024,9a605a70ee99eb1bfe8570df3a8ac671ab872b3fee80813291b8363fc9da0b2d,So tired...
+1745210166,02ddb313c2d3a3fc2d9b30d93dc78afcbf26d36b10c24af1b1ffe054c18f3730,This flower smells so good!
+1745218991,dbf7b48841acfaf27706388d0d951c7a823ce82e5c936e4c0e3a89589e551581,"Come on, come on! Push through!"
+1745228400,95086b9ee7f34d892e19ff9fc240f007fb1f716d29e5b203092e3d2565cc3711,I’ve practiced a new act—it’s going to be even better than last time!
+1745248022,ea4e18cfb2a6dc27cc97685fd861be4f29bbb589ec25e23d8dc3e901154b1118,Refresh Cost
+1745258051,651220f3ad458db72a21126037aa795abe7a0bdd5208e2d9e343278b1ed5e454,Raw tin ore. Dark grey tin can be seen through the cracks.
+1985334151,651220f3ad458db72a21126037aa795abe7a0bdd5208e2d9e343278b1ed5e454,Raw tin ore. Dark grey tin can be seen through the cracks.
+1745262789,16c0f5434ed3ac925b7cc3a45bcdfac1f6cce7a7574aa184469f81936b7fe428,36%
+1904644573,16c0f5434ed3ac925b7cc3a45bcdfac1f6cce7a7574aa184469f81936b7fe428,36%
+2022627934,16c0f5434ed3ac925b7cc3a45bcdfac1f6cce7a7574aa184469f81936b7fe428,36%
+1745283964,c65ae491b7dabd9aca5a0300084dc65ce2553382455fcd1005ca2a0587634181,Then let’s go find Lady Velouria—I can’t wait to smell what this fragrance will be like once it’s blended!
+1745308417,5c36b4d916f25e96f57cf4a1e0acf43be8e45312c747b777587ed72ff1378cb0,Outstanding—all tasks complete! Here’s the Institute’s recognition of your dedication. Keep that spirit in your future adventures!
+1745316863,a45bd17aa403741fe78a155a23b47f8decafdd0f511371ff5489f54335fc6ffc,"Used to raise your character level, unlock pathfinder skills, and increase the Aniimo level cap."
+1745326139,852ef2d24f8bac3dbc252378a257f4d17db7411dd6bc93b13d8eaa86cbe0117d,Click #kHud/SkillQ#z to cast an Aniimo skill
+1745331710,9b58719f48e44636692c8c70e5c2e151380e3aa89a4a1433562f6c5abd753d57,Tell me about it.
+1745331949,9733a6501efc7afdfb71ddfbe94c220be7375e47eed8e7de5e5305cd806d7dcb,"Hope we can find the materials we need...
+We'll handle the Collection, and leave the selection and perfuming to you, Sunia."
+1745396230,c391108391e0e1b1e70a4bc35830c41b8072d066578485fe0b5c547e95359293,"Magical damage reduction increases by <customRichText(calcData,buff, 270020004,param0,1,%d)>%."
+1745398050,0156c6135abae470b6bd01d9b4960bf33c7d36856cbd3a83976eb4f0c7ce77ac,Scale size of the Summoned monster (Default size is 1; -1 means random within the range)
+1745420326,f78ce22d80f2ceb6217c0f63d5ef4637a6ba2165155c448a4fe95f02f64aa809,"Eat and sleep, sleep and eat, it is the way of life."
+1745424578,d39cc1cc417ed90535341607d6afcfd13fbe512a8d682f843ee4a51461740765,Modify your infinite health and Invincible status
+1745431126,0ef041f4468c68a52c9522266b47029118c586d75287c6246f887c132234527a,"Seeing is believing, why don't I give it a try..."
+1745434697,aa67f36ea496d7f4404de522058f780316dbe2726e468b19581aed4113d2ad3b,"0 = No Positioning, 1 = Positioning, Default = 1"
+1745475234,a7381d3dec569c84539cc050310ecbc50b458dbc1c5bf27aef5fe3c10a6c4032,It will consume more Glimmers to replenish Primegy as you make <style=Hint_BgL>more purchases</style>.
+1745503108,ec03cccc5d87425cf43ced2c61487b7beb6e090919591d28745fe29daf85735c,"You can earn one ""Training Incentive"" reward each day and accumulate up to 7 days’ worth. Completing more higher-difficulty training sessions increases the ""Training Incentive"" reward."
+1745530715,ccc33a1e75593cc1390ed656141401c692faa0f798aa053b7acfe0af1d7ec061,No items currently available for sale
+1745539957,38bef75970e02bb17d701f906fa48566887a48835ae647baf35745a7d5d063f5,Static Large Ice Block_Level 3
+1745556677,2a12b14a5454b2f136204313411fc1ebb580b28a01063fb8e5468718d08f0f9b,"In that case, I'm going too!"
+1745574897,15451ed15686826dd193b253c53308db939ed29ca26d728f939e6f7b4dc30461,"Oh right, I still need to send out the training rewards.
+I’m not forgetful—I just occasionally don’t remember certain things."
+1745584044,548c31f731ec2c86146a5170a2f394b0e0975a74ad035e1fd73fae9c369e18c5,Chapter
+1759167103,548c31f731ec2c86146a5170a2f394b0e0975a74ad035e1fd73fae9c369e18c5,Chapter
+1860908278,548c31f731ec2c86146a5170a2f394b0e0975a74ad035e1fd73fae9c369e18c5,Chapter
+1745584045,ecc3a4d4001db2d8c27e390115b5ac2b46905d7cfe8c417a3088e34009283055,You now have access to the Aniilog. Feel free to check it out!
+1745611357,738d566b28434d52d0fd79a679d20a2192b7fb89a4ed1e52c221d7a12dfdae6d,"The sights and sounds just now have vanished...
+So were they the land’s memories, just as that voice said?"
+1745632669,8b55d77399a864c0acfd3cf8954fc50ae80184110d7ab8c89b15ed24baa193b1,"Really? This late at night—someone else came to see Irelia?
+That’s some coincidence... yawn."
+1745656882,3159b707ca9b056ae9e8a8697dcc5db726cd86301d483cfe6a42ffa77a30c6dc,Lin Xi's Rest Set
+1745674376,2158c4029a6c560f7b6fb10a6999cc181de0d9e126a84adb0e0b72c260c58150,I ran back in tears after that... I don’t know if anyone saw—it was so humiliating.
+1745707977,fbb6efadd972089119aba13a77525c241dca051e7498a22887d82511bbf8e8db,"Except for little troublemakers. So, tell me, are you a troublemaker?"
+1745708313,bc1080fecca3818957e9075bb540550d4985e4d39ba4ed4920522a150f2c3304,"Fine, pink’s not bad."
+1745729389,287acc9574d033c68a9d908f03d7afac22ce5c002124430dee2723a8328c4daf,Share your good luck with your friends~
+1745749375,cc64341e0ecf165ffd5fef2bd4cc13ff7b7f4ba80d463e3b943f54bcae148f3b,Quick Training...
+1745752772,c2cea0a912994960448928f9ec4a2ec4a69909b04a288fdbdb4bb0e7891278e9,Catch {0}/10 Dazmands in total
+1745780913,226af3bfa0257772732a969ad2a8cc93483c0f43fc6f3b38488805df32c4582a,Effect? I don't feel anything...
+1745786269,44a610f9146b349194d9e1f03f73b2b8448d39368441755bdf7255099ec7ab7d,You run courses too?
+1745789095,f77b7051b561146e290fb5727b99498f717d4af425d4ca896362b86fda64b9f2,Alpha Catch Reward Compensation
+1745800159,2fafa670b0294aee6afd8007e590b49033ff14e8f88b9f0f6b1a26a5ed2e60c0,"All items in Operation: Egg Heist have a weight attribute. The more items a Pathfinder carries, the heavier their Load becomes.
+As the Load increases, it gradually affects the Pathfinder’s Stamina recovery speed, Stamina consumption speed, fall damage, and movement speed. When the Load reaches its limit, the Pathfinder becomes overwhelmed and instantly stunned, unable to perform any actions!
+Once a BINI companion is activated, its weight will no longer be added to the Pathfinder’s Load."
+1745802587,b4a7365740ef880b7e19c7ddba99950365af73b2346a235ba7cd6f1bf5f2c281,Stats
+1745812050,f02970e4b31dae48f5415ee47c1df7a334fd15aa615c4a0f3d5ebc4b8bd699d2,You're quite the gourmet.
+1745813575,80222422b73a25075eca32202ddf3991bc1c23f971566e7a52f6663649e943b7,This item is in a freeze period and cannot be listed.
+1745819808,a3db6068e2c7bc9d6b568095a1e6f806b27631c29714bcb7bcdfaaf2a748d18d,Release Gift:
+2008126890,a3db6068e2c7bc9d6b568095a1e6f806b27631c29714bcb7bcdfaaf2a748d18d,Release Gift:
+1745823513,20dbc7e2cb23a734c99df0069ff73c7e01758fe2f95bdbd8ccccb4a672290730,"<style=Hint_BgL>Temporary item. Usable only in this game; cannot be taken out during evacuation.</style>
+Significantly increases damage against targets on <style=Hint_BgL>Chaos and Nightmare difficulties or lower</style>.
+With chips installed, <style=Hint_BgL>significantly increases load capacity</style>, and grants the Pathfinder access to <style=Hint_BgL>tactical skills</style>."
+1745831977,4b4241e0f036dc98adac43504dd3282372884e73465e2d1657a593ea2db05f66,Import Outfit Data
+1745847483,0d20d7ef6b7d965f2e841be527c141e79336e024b4d9bcd76add800baffee303,Translate Current Page
+1745859344,4ccef409c675ea2e7344cda25561ef7fc3b2ab9eb1292ad51c226af975c8cb00,Core Resonator Level Up Cost
+1745866277,263f971ffb45b301dff07e2e0bd605d914357c2a62b7bfd38ecb23b75291b43e,Obtained by crafting the Legendary Aniipod: Departure with the Wind.
+1745901048,110049cc8ca88c81b5adcca35a00c8389e01e2805ba40e930fb5a2fb2be6e037,Rage
+2096662093,110049cc8ca88c81b5adcca35a00c8389e01e2805ba40e930fb5a2fb2be6e037,Rage
+1745916720,6d8737362582eadb922823c1b4decb4494a6b965a109b186655847e0d2b921df,"Oh, and round chubby Aniimo are genuinely the cutest things alive. Go get yourself one!"
+1745938418,eb169a738a8369247ae084300edb339fb99c9f0010adbfdf85cc54b577d937c3,The tick hitbox only shows the most recent one.
+1745943874,0731e995604c49772cfd372e1bfa72bbdd27bd250682b9d024897564fa330e33,Baleetle Egg
+1745944612,541224e7636513e57cf46355d3a70490cdab3be98081d4046b001e83bfdf0f30,Report Player
+1745946589,45e1f55afbcebf7dc339cffb264f88d71cd41d11ccca4d7556c072437f02d0b0,"In Catch Mode, tap the [<style=Hint_BgL>Lock On button</style>] to <style=Hint_BgL>lock onto</style> the closest Aniimo"
+280379895,f6e85d2fe5290795e772c16c08c9b1d449787a36162eb899908935f02b5b43a8,Infuse energy into the Branch in Breezy Plains a total of 20 times.
+1745949327,f6e85d2fe5290795e772c16c08c9b1d449787a36162eb899908935f02b5b43a8,Infuse energy into the Branch in Breezy Plains a total of 20 times.
+1745968258,993ad593205863234be365b0b42be78081e580b8aa61411d556040a26131db77,This Aniimo has only one trait
+1745976773,7dcf32b5fa6995ac4631ba1b883be808230576cc05d8c9a267748fd0a02abf3b,"Randomly awards one of the following Held Items of <style=Q_5>any quality</style>: <style=Q_5>Gargantuan Horn</style>, <style=Q_5>Marching Flask</style>, or <style=Q_5>Capacitous Battery</style>."
+1745982014,f909a78306bc7954e4a1d1569e8a81ad87f74f04d41c7ec0611a64e9f3797b19,That wasn’t really a compliment!
+1745996891,cc58d8d98b92098ba833f323d359fb0b6075962a23b7899bbbf12c4e821a0db5,Companion Mode deactivated for <style=Hint_BgD>{0}</style>
+1745998227,40f5042f548e133287620126b0b81c9426c88a22fe6ee332cbe8211f8d4c35ce,Lv.13
+1746005408,cc70ab52a4db3d22ac8998d429dd61f7a42ec90f2c570b13e4cf0cb959cb8fce,"Increase <style=Hint_BgL>level cap</style>, which also raises your Aniimo’s <style=Hint_BgL>training level cap</style>"
+1746019849,8c05ac87f1c97da9c39fc6e490d119d7a14b43fa6ee6e09ba43f2836464ef59a,Hunter’s Instinct
+1746028999,7a4caab4a9b78e20f4df7eb39be602bcb1a75bee196419d093e1cd8a3304d0ba,"<color=#5090df>%s</color> and <color=#5090df>%s</color> were having a Who’s Louder competition, and <color=#5090df>%s</color> suffered a horrible loss."
+1746086390,f9a8576ad643be7ebdab90aca6b8537c5787296e0c6fd46396837f448286b78a,"Any voxel coins you find are yours, and Stellalord gets the starines. Win‑win for both of us. So, what do you say—want to give it a try?"
+1746097521,212c6b3447c7f9956164ae68246b512bd2079f7a78fc9c1b3c24e6995e672656,Welcome to Test Site No. 7: Fire says Water has Poison!
+1746098659,398f26f099943c5a0d382386b7456dac0bf690d24034eeb603b7a263e2256b47,There’s a wooden crate stuck on the statue... It looks like the bird is carrying its food. Could there be something good inside?
+1746101616,bc21c998a4781632184ca7a87f8fba45e062904d90188fb7ce252d1ca2b51221,Training Manual
+1875300708,bc21c998a4781632184ca7a87f8fba45e062904d90188fb7ce252d1ca2b51221,Training Manual
+1746109466,04a5bd54f5aa32ef9719b4f60c8442f675433a6857086ca19927695697f3fcce,Heart Lake in Sea of Flowers
+1746128618,213014fea493bf434fcde41d56c5088939ae329c1fd60eed69c59af7104a5f08,"True. Nothing is as vast, all-embracing, and ever-changing as the <style=Hint_BgD>sea</style>."
+1746130371,aa4cc0322f663c27ddd81c455a0048739419e3a454dbc41e37bafc58bb75b9b1,Potential Stone
+1746164793,8a53a55d8730aa906941c5d4dbbf43cac7e81c67af994b33e31da5d9b56dfb93,Perfect Gift Pack
+1746165132,ef6014590df7a150d756c71763737a92a41023ec98c48437b5ffeef018db45eb,"Alright, alright! You go ahead... just five more minutes... *dozes off*"
+1746172750,60945723aa2e212df4b3d31e9ac6d37402a3c6d931f2f09720403c5eebd7987d,Do you have any good ideas?
+1746176730,1f79cf5e56fc2cf09b386562714107cc8911aa79f8405eadf300dc7010038106,"A flexible, sturdy wheelbarrow that rolls along steadily, even with just one wheel."
+2003225298,1f79cf5e56fc2cf09b386562714107cc8911aa79f8405eadf300dc7010038106,"A flexible, sturdy wheelbarrow that rolls along steadily, even with just one wheel."
+1746185408,8bfea1157ba6ba63fd4bd36ae99ca43c40bd36251f0cd55ec610191b8d9dbd9e,<style=Hint_BgL>Operation: Egg Heist</style> mode is now unlocked. Press to view.
+1746194222,0a63ef8f622f2aabccc3c1b3475e861be4272100197acd95992cbfa7d2896fb4,The Jawling left...
+1746241556,35ce0b5a719b5de4ae5bdb968a61c5bae35ccb90a41a758abe30c7537d897096,"1,000 Credits"
+1746282245,9c0a6fef545a30a18c19facd0139ee5915eaa83cd286ca9bb4a472e8c8c46335,Sanctum Duration Damage Boost Buff 1
+1746298938,dd29daefdb444ba600d055a0c8e6cbef8fd99c807f6f5786815d2829261fd876,Elbows
+1746300881,6a9e079b513b3a1213e29f66bce601f01828827c0e4151f57828f532cdafe2c5,"Prismatic energy awakens the lingering will of the dragon once defeated by this sword, causing its claws and sharp horns to sprout from Pawney’s armor and weapons."
+1746302287,56f874fe6aba885f3ef089a016375f26eca5fefdccf0af39320cb838a41f7d6c,Saucite is the master of the castle tower! And rumor has it that it always appears at <style=Hint_BgD>night</style>~
+1746303160,a198097b5cc1f2a5c205a810c193a6173267edf01f14212251e5ba4dfb178bd0,That explains the mushrooms next to the entrance...
+1746305486,a59035e8e66292ebdd78dd3cd2891f9a6b8ba870e718ab673f0b81f69a109fdb,"Playing the Windgliders’ songs is more important, no?"
+1746397445,f722773a2a1b085dc7850f5cfa1afa7354297bb05a66d824b2de7cfb54dd156a,"A clear, mellow beige rice brew with a sweet, gently intoxicating aroma. Its rich rice fragrance blends with a crisp, refreshing finish, making it utterly irresistible."
+1746420236,647aa4ee5e6a05361b4862dc07829c328410b33254c9252e2ad4493babb55f42,"Emergency communication request, contact Nicole.
+Connecting..."
+1746428539,036ae883d801f790d19c2692632fdf96291654374c8c2d4245cd07f25ce191cb,"Whoosh~ Shell, whoosh~"
+1746430231,63a7f339ac9122b9b71690e906a693976d834a6b1e4a188eb87b78b1cf033b29,Does this place mean something special to him?
+1746438861,0e71ebca6166ce87377e0a52d009017a768d69a8d445fb8ccaea85c430a21b35,Reach Prismatic tier for your Fahloo research level
+1746449110,f0e42730d459cfd4d194dc140593ea6b0e5d1e4896a1a603703b752d27a77bb4,Wait! Up ahead... is that a Helmut?
+1746478640,6da30502cbb549cf7413dfd413b924bc666d8393ecfc0d1d5a95f0fe87f95fd1,Blessed Bulbly
+1746485867,0da2020dce0ccc677971047b4076e46c49bea73ee89db293fffb2595ca462c6a,Egg Snatch Zone Name Display
+1746493171,1fadd361c157e8efe7f61e93f90674b52c9accdb1d0a60488f8c302ba004c97a,Charged Geyser
+1807990768,1fadd361c157e8efe7f61e93f90674b52c9accdb1d0a60488f8c302ba004c97a,Charged Geyser
+1860874348,1fadd361c157e8efe7f61e93f90674b52c9accdb1d0a60488f8c302ba004c97a,Charged Geyser
+2112933258,1fadd361c157e8efe7f61e93f90674b52c9accdb1d0a60488f8c302ba004c97a,Charged Geyser
+1746495050,790a57cc486a0e5dd586eaf1527c70437548e86dec673bbd0a6127d91c032e24,The Promised Moment of the Butterfly Shadows
+1746536357,8c49f369de20b2b544d0c9c16c059ac77b0be66d4d10a67899b7b29e3ef2405d,Challenge Velouria
+1746544966,19af2d5245d4f03b57c2274f5772005fade9dc03b8f594d68d749f596fe306c4,A highland Hexxin’s magical power is no joke!
+1746554861,884feceeb0b27f50b7c0ed9611613c5c4b08d42325b8b415c8f60318cdebef5b,"Once they mature, you can reap and <style=Hint_BgD>pick them up</style>."
+1746567869,ef2012c4b83f598f46a09f2d211e2c8f9177d2bda02f0be35f0545b76964826e,*Whispering* Bloomville’s Honey Cakes make Icho much easier to talk to.
+1746594815,031b084ed5d1dbc2a769d5912751da9187827d43ba06e6d65577c8f8f9aa674c,Alpha Sheldon
+1746617464,74ca2255542355439855eff8fe5c787003b91a957620a7d0b5361c5f95b5e10f,"It's so warm here by the Branch!
+It's like the land itself is giving me a hug..."
+1746620790,8f7e5a36aa57add58d44c6926f6ea15700b9aa8737cf305c2f2353900027bde0,Guess I really do have to <style=Hint_BgD>twine with a Nimbi</style>...
+1746628139,42ccc3f7ca94218f1838b80192befa5cf96883844368f098a307e272df513d33,That’s right. Keep the compliments coming!
+1746632656,28a2f88e82122f6dd10a29b1db857b6869ad70f90bba06761c0b64d9f97868a8,Part Snap Point
+1746654472,db2d263c76092c1645b5f25d1fa4a07d6ef94b3b36adce77c695808054a24a0d,"Her colors and fragrance shone upon all like a rainbow...
+Bringing vitality back to the withered land."
+1746654661,56c6eafbe65d79069d6ac79e7560eb42fa7a941e8ac3c0fa259bda2fbd2ee5db,Ross
+1746717043,d0937edecfc6a5200f38961ce95fd4649d7c08632f93157edc38de223db80bf9,Element Bonus
+1746719757,999c6ece1111512b065a4539a7f77d6f0a367bdf46b415a9d6098299e6223297,Top-down Lock On
+1746736044,5fff787508bd794fe4a46c7c6ca46338b7851cc5ae35db257e9775b1e3193b8b,Arched-Bracket Wooden Column
+2067364415,5fff787508bd794fe4a46c7c6ca46338b7851cc5ae35db257e9775b1e3193b8b,Arched-Bracket Wooden Column
+1746782497,1c2d1c7d207417a727b08486ea3e0a4766723f8e1709c0c124fdafa7fe9c9a84,Carry Weight
+1746801702,8a7851098988749e49957e014cf447a1a495b460fb0c2dffb6ce07b2cbe97f5a,"So how is she now? She’s a Guardian now, right?"
+1746852221,ac856562aacc4b8a038f35b2295f28e3138510c2fe040fb85ac33e7a70a0387d,Ask Melloblum for Help
+1746872738,2cc103f7009562300ffaf422697590c8f7137a5804aeee651cfcced7be4f9101,"Pathfinder, can you feel it? The chest behind that stone wall is giving off an enticing glow."
+1746901127,7c024d83a8b67ff9399d70733124d0d75fc8aa0b40145e36359ce851214e8f80,By the ridgeback trees—bear witness!
+1746939730,16ef93500765fe10952e5c618efe0d51ab63993442e17db1680b5cc3ea1fcec5,Chain Bind
+1746964296,1b748780dbf35c215ed4bf04ef5d4bb7b843b892fe94ad8e28b8dff60ab73c98,But it smells so nice...
+1746971280,a87a96ee2e05d6c8c267608898c67cc1ad982cb835fd6146a6b700473e81f871,Thanks for the gift!
+1746987462,515e7abb8eddf8fa18944edb513cf97882fe77b3931eb468260f98ea51028151,Wait...! The <style=Hint_BgL>Cozite</style> is undergoing a terrifying transformation!
+1747008004,3d6bbe7ddb9e967c1631a144a7c9dcbcd8554c38c5aac3c1280e6894f660bcc0,I’m an awesome Pathfinder!
+1747009597,52b7d7a0d93f0d531f0acaa7139ae0f42ffe7c8eb7c9f025a689bc58ecae73b6,Most skills can be canceled by pressing the <style=Hint_BgL>#kPlayer/StartSprint#z</style> button. <style=Hint_BgL>Channeling skills</style> show a <style=Hint_BgL>circular progress bar</style> on the skill icon while active. <style=Hint_BgL>Press the corresponding button again</style> to <style=Hint_BgL>interrupt</style> the skill early.
+1747026461,98c03a70ef73a7a1f6736c0995158029b80727001e7dd42db4d8f3c4ba5c0ec2,"As an official student of the academy, you can unlock more privileges in Astra.
+Not only that, you can also join the expedition team with official Grade status to continue the previous unfinished Field Notes."
+1747030378,e015d1a61cdef674a987de796cb0f257b2b3665f89e72405df0da6a703524d78,Complete Home Orders to earn generous rewards.
+1747031600,b9e5f7e2fb4f6d81c3c0abd8f05954621c33d4a524d57f95cf7b63cc1368bd54,You haven’t spoken with anyone recently?
+1747037483,f0b2e98cb39e711c9e0b71328b9303937dbc05996418693583b04ba7acbfc3fd,Get ready to ramp up production — a steady supply of raw materials is what will keep this plan on track!
+1747051112,8276d12a4c6340c317c6b7a33342882c225320d02221a9882550154948df5b7a,"#playerName#, Nicole! Lady Velouria! Are you okay?!"
+1747053136,d7f32f44875f671a521dfa6ce964c283aa0fbebdde47de1adc22cf9c8695826d,Wooo... Wahhh... Wooo...
+1747066304,2a3c751f67f3e979fc8b4b32c0526a5a54aff5c349edabe70e8fed175b006434,Got it. I’ll head back to the Institute and give it a try!
+1747093129,3437dbbeff500ba11fc1732456e76956fd01d7ce3380486d0128101cca15b2b1,Please be seated!
+1747100549,c60bc222cefd7332feed2b03a24d5fdbb7854153529ec70091f375dd4838d4c8,Increases damage to Alpha and Omega
+1747113336,b0ae9181f1f829c826e6b5dfaf71028661ca37c8d279acbde5de220d1c665080,"Aeolus didn’t appear this time...
+Maybe They really have no strength left."
+1747113380,7964b9608a2f759ac5b46510ba4dd3e83fba18cb10a540213d68508edd86d249,Always surrounded by followers?
+1747127194,a57e007ac4bc625eace443e3a7028a2871b6acccf1c2585b1db21196cdf10f75,The Piopiota ad brought in many orders from Susutas. We must replenish our materials right away.
+1747137516,cc2e5f046ac3babc3c9a9301612c894c692f4dd09b95d953f9f308047b7e1b0a,Sanctum: Soaring Glide
+1796197280,cc2e5f046ac3babc3c9a9301612c894c692f4dd09b95d953f9f308047b7e1b0a,Sanctum: Soaring Glide
+1747165311,6bf54dbc992b945323f8ca2f12595cb6e33b34b32d1c794cf627ab126be7c778,Removed the Vine Core and saw the memory
+1747224682,0d2ff183076a2f7906367daafefd8f983abf8982d3c163657ce090ef0dea7b6a,Can consume Primegy to Craft Hummin Dewdrop Crystal
+1747234923,b0e1f06cf1e7d466ee3048ebef45d85b2d1d31d6164a9b92a6fd0887ba8ffe89,Coffee
+1747281370,3add75457e4a6705c0ee10ee121053f20500d43db8f2e3b5b45c311bd3a35af1,Releasing a Skill on targets with parasitic effects will apply a nature resistance reduction effect Over Time for 6s
+1747336671,be35964add34a5beae90c9eb9370af16fab0114714804996e4d287f708b6a490,"As for the vines... they must be the work of a Grass-type Aniimo.
+They like tangling things up in them."
+1747422039,9dc0163d4c9cd4e3d0d1dc60c97a78d6a22d7d6947b5a5415f1598a24933e55f,Report your findings to Haynes.
+1747504025,3e61038319ba801d25216101f669dcb209c15bb9c142b20a57e10a7e2a4df1d9,Clear the Snap event execution count
+1747520554,5cc6319912a63a481a617ef0cb2494d6add54b4be99e213bd414fd05c9500a4e,Think smart and clearly about every trial ahead.
+1747542559,29316523c585c77d164f7e87dc4d0d63193015d47fb8c72d091c499ce5942c11,You sat down. Take a little break.
+1747547089,ea07574d355b40970aa3b8c357a897941c1fcc12cf35372a33affff26c60248b,These flowers only bloom when they feel a sense of longing. Perfumer Elvira is looking for them to craft a legendary perfume.
+1747612503,1b0058f917056aeafc05657bf89232bf8e1f2a1aa5d27ee46ae2161589cd8854,"A celebratory chest event, maybe? Come back in the <style=Hint_BgL>daytime</style>. They’re all asleep right now."
+1747629778,b37998874b22733d7f55d125b25f188795fd7de431c837d152fb62b6a6187131,Title has been promoted to the maximum for this version.
+1747656441,501f7ad83527a7ab09ab6d9aa5fcc217dff9487b339e472633d1ff6b4ec56bb9,"Among all Lumin Ambers, there is a type that can blend in the eco-system. You must twine with a required kind of aniimo and complete a quest to get the Lumin Amber!"
+1747660392,ba3c7417e30a52934756c89bb06c75da51595b085285cb723eace39f6e809925,Swinging at Air?
+1747691760,6f93057cc30852e83fa8a5852434ed80ddca18dec673fced0d9d8ce07374a7df,You ready to give up?
+1747694342,a1f1acf4176a6ff3c6b344c7b06fe0b10d2948bb89df5d88358f7fec667e3198,Sort by Time
+1747707908,3fdbe8b157f46bc09a2371e142a8bceaf70ae3cb381c684edeeb2d15ada794f2,(The Pebbling is digging with its head down and is too busy to respond.)
+1747708100,4f43bfffe43794e47cb172c4cf43032ad72c332ab20511bffc51ba142ded8e3a,...Fine. Just stay quiet.
+1747712567,eb8f5d5a3e7a8edb02dc22fa307f77be632f3bd950e11547ad0a25d5bb389375,"Alright alright. If that’s how you feel, I’m sure you can appreciate the new form just as much.
+It fights with so much more flair! Want to see?"
+1747774772,b15f268128c2949ff3220a05dfd7ab6aaa56a85992f1fa1c39213f241a9c273c,"What? Done staring at the big cube, now you can’t stop staring at me?"
+1747798386,b26808edb030cf0daaf2323f1b72d00a99eb6fda03e0d9781a56e5cab83dd305,"These <style=Hint_BgL>earth-type</style> Aniimo hate being woken up. If disturbed, lure them near <style=Hint_BgL>those pollen-spraying flowers</style>."
+1747832720,fdb5dd130114139c5756384921c31f6c5d15fc39fb299681975ae3a2becfec55,"Uh, but can this salty and fishy smell really be extracted into Spice?"
+1747845318,3a876119fcbf0a4ead2e43a62543935d7cf8685a78ba861356f77af922d2adc6,Group chat {0} has been disbanded.
+1747851798,6f7d2f2bcc92aca37c1e0cfe456a6fbc4c1b6b290434f3309e82d330aee3c2f8,Monster Attributes Template
+1747864046,47f46cd0cc8c0f43fdae664466904222b6988a221956e36824b96853e151f2a9,"Anyway, humans can only choose one blessing at a time, Sol or Lun.
+We're pretty powerful, after all!"
+1747873895,9b319b98b2f6144ec916bf19b134670a08398bb5718a66fa26362c32b122e36c,Sounds really challenging! I’m in!
+1747892950,a1c7ad1097c84fdc7966cd1fe34c736a2635ed2485dcddcf9e5423f97e0793b5,Weak Wisptis
+1747912092,132ddba6ae74aeb703501c035bd71fd2be9ee0bacddaac27c717c304b78962eb,Let’s get down to business.
+1747958180,52236c273dbaa2972acb874448798cbc8cfb5bbda026d1d441ad7abbec7d3af6,Chimney Kiln (Level 4)
+1799266743,52236c273dbaa2972acb874448798cbc8cfb5bbda026d1d441ad7abbec7d3af6,Chimney Kiln (Level 4)
+1747977941,4de7a3c8ad8e0173bbf1980086800c7d45d22270671f12871e6ef7a2f26516e8,"Prismana energy soothes their rampaging souls, guiding them into sweet dreams. But if anyone disturbs their slumber, they will be enraged and be your worst nightmare."
+1748024400,f371ce121b11610b1da4edbd787d26ee5081489da69bb60d2d249aecbbd3b52f,Rank Reward Preview
+1748028252,dafd8d9a195fbcf809879409242b242f155466b827cef81027fc6bca93208d49,"I understand now! 11000
+00011 10101 01101!!!"
+1748043334,18da0079d8775f1e206ffa64c0293e261734fb4d6e060d12227bc727ec439b22,Whirlgrass Shot
+1748062659,37ac72f2b6cf4fc281b19cd89fba4b06ea889506f18e389858e13b8a3d57d272,"Woalf can evolve into multiple species, gaining more and more abilities and skills through continuous evolution.(占位)"
+1748072513,0f68712da03ba8d031d99dfff58fbf7fa93a570c17af9ab9cb1c2c30b46108db,Elemancy
+1748127089,0c2ae60b0c0a732e0456d7120a39ea1e191892364db04abb4ab753e63e02a88c,"I hear it’s different from ordinary Nimbis. It can <style=Hint_BgD>unleash power like a blooming nebula</style>
+to support its allies in battle."
+1748131524,12eb4a07fed2bf24972f4e519524aafd07a34fe1df93f72a1e4e50c60e2f52d4,Our Scorchhowl’s barbecue skills are drawing in lots of customers. We need to buy more ingredients.
+1748168099,84cdc8ae6c5649e2067300bf7ea8dd2253003bb61122195c87734cc39b35457e,"I’m practicing, the air around me will become hot, so you may want to keep your distance."
+1748174230,3fab27ea93e9a67907bbe5f2eda685e5038dc9c378850da7d29e65bc8e28a296,Drag here to release
+1748213801,8e80b2b4b22af3a71ca0a3d671a60749ede566e46113d3c6cd5edd66d3914116,Bell
+1748224645,c84368f38fbeae4332976b5e70d9ee753aef9af978cced5b26bfd4607497bfff,Unlock All Index Entries
+1748264771,4860b342b645e68717b1afed1058ed3b6e02897e0004cd8ff55abcd4a822f4c0,Icho? Icho? Is it really you... at last?
+1748282193,dda897bcc25fb6e7806c8378d10f18686a57ce3c6788558ef0cf990cdea7d130,Think back to last time. Use an Aniimo with the <style=Hint_BgD>Pound</style> ability.
+1748335741,b0d54be20144e8f83ad4c2da96d28d20e9b5344d5fbe9a3d00b9696d25c8bb13,Perfect for a street snap BTS vlog!
+1748367420,a63572acd032ef4b3b4b395f9ab7d86b7e6f05ff9048827c686c580dff36ce0f,"When lightning dances for me and thunder applauds for me, that’s a star’s encore. Curtain call!!"
+1748382338,8ff6549a74a92875b37b17c2f03232865cacf158716b479d5d039189eabf89ab,Ee—
+1748404072,ba1ae4cf0cd6bbc75ea8b37d0cb31d87bab07e5eb029a2618c7bd42c28649d41,"Twine with an Aniimo, then tap and hold #kHud/SkillQ#z to aim. Release to <style=Hint_BgL>launch a fire ball at the target</style>.
+Launching fire balls at <style=Hint_BgL>flammable objects such as wooden chests and vines</style> can <style=Hint_BgL>ignite</style> them. Once fully burned, they will <style=Hint_BgL>disappear</style>."
+1748411843,d5dd3e75582ca9aa3781299d63ca7440cb5effe6e9045b9a585faba85ffe7da3,Reservation Reward
+1748423147,38f79a858ab61f48db98903f4c34b9e606337f855f37f9b3ee3b12375bf85979,"Huh, this is Sweetfern Nut? Tons of merchants in Astra are trying to get it, but it’s hard to obtain..."
+1748434428,264f341e38e29c6e4a0bcb5c2f7f41d4e62dd9562cb8e2303b98208dd4b2ac8f,Let me show you!
+1748454083,fed3cf69029bd12073e1f09852fd9d38f88c934b5d2ffbf81215837727b5cd1f,"There are so many people watching. If we go all out and I get carried away, the Principal’s gonna chew me out again... Ahem."
+1748458641,2510dc8540cfe6b6e18e41803ec2b341f17919c51d701dd572bc6f418750c886,A bit difficult...
+1748477371,8addf8452e1d32fa3fb074a43587eaea1426a20066d0ec1fb510ede034d8e5ad,You don’t have enough Aniipods. Visit an <style=Hint_BgL>outpost vendor</style> to restock.
+1748494670,b7390d9e564c3fc87fe5b1b43035193f1119188e90a487d87074d95c5004f646,Highest Floor:
+1748513914,02156b082423ac14fd3d96fa2c8551882510e8612e25324ffa159d2990884e53,Not enough Skill charges
+1748563871,ae0e2a756eba5d21a5ba27e12914c0ff469bb14bb3a17d8b10098ae3ce98b464,You’ll be able to purchase this piece of land when your RV reaches <style=Hint_BgL>level 11</style> and you own the prerequisite plot.
+1748569469,ee958b50bda0a6f0250b87402a1eef5678ea84cdb717c569d7fe362d115a2177,"Wally may be somewhat unreliable, but he does have talent.
+Because of him, I recalled an ability I once had."
+1748589706,7335f457e1bbd31883ef5c1cabdde0c999663a53e2f66854cd28c4a8102fe621,Alright... let’s begin—
+1748630528,a56fcdd6c1bf755643dbb159b98d5d6552635ec2fa0b476b73fb49caec013552,Placeholder 10
+1748675723,527d0159db1e2a6d294fc4e570bdb7016d37b8fcdd219acacb4ae670c0dc5cfb,"An egg with powerful vitality, found in Sea of Flowers. Guaranteed to hatch an Aniimo with <style=Q_4>Elite</style> potential or higher."
+1748681536,6dd3af512c027823137c49a5a4db2488a6c5f3542359a6097d3492a18697f329,Blazing Stove (Level 5)
+1918740002,6dd3af512c027823137c49a5a4db2488a6c5f3542359a6097d3492a18697f329,Blazing Stove (Level 5)
+1748691476,88eb698bc726c633204ca109930f0d51633e7f2ffb271368162a964c541c82bb,The light amber-colored syrup is sweet yet not too sweet.
+1748704201,b3244d091104742ebe93224a1cb054e4f652646eb9b586fcd656f02c80c243de,Haven't seen it
+1748707177,70d6ffdbe6264372e54c8d4c7a9e8355ef7127da8a42126e86d04275d04259cf,"When <style=Hint_BgL>Coral Mark</style> ends, deals additional damage equal to <style=Hint_BgL>3</style> Might to the target for each instance of Earth damage taken during the effect, and restores <style=Hint_BgL><customRichText(calcData,buff,9138302,param0,1)></style> energy to self."
+1892904904,70d6ffdbe6264372e54c8d4c7a9e8355ef7127da8a42126e86d04275d04259cf,"When <style=Hint_BgL>Coral Mark</style> ends, deals additional damage equal to <style=Hint_BgL>3</style> Might to the target for each instance of Earth damage taken during the effect, and restores <style=Hint_BgL><customRichText(calcData,buff,9138302,param0,1)></style> energy to self."
+1748708716,075a910d98760464b91f22ca94948d7614f2a33c5e58922d4c343d3b649347ac,I haven’t felt this fired up in ages! I can almost hear the sound of digging echoing back from inside the stone! It must be a miracle!
+1748765798,630376091d81ead470dc8ec01424122a52d724c6e4045f21ab145543dbe97a83,Why do Starine<style=Hint_BgL> keep floating down the river</style>?
+1748801084,0e0134dddcd5e5a911629e12ab756a7d46fc0fd7c686ef7b44253ae852d1bd4f,Max Placement: 0/6
+1748818334,64b5cabc152b5b0cde381108ba27ae6f5ece8c0dcecd7c4648211f8bd6c3a8dc,You defeated the Infergon? Incredible! No one’s ever managed that!
+1748850515,f03c5518bbc6e6a5e5c5faa4315e78410b3f0a244f4af8d752b828be93ec8306,"Ah... Haha, yeah."
+1748851981,879463c9df3c7aa8dc9e58eeb682697a094bd7816df52cdd61b4746fc53ec34d,Specialty flower bouquet from Bloomville.
+2048598247,879463c9df3c7aa8dc9e58eeb682697a094bd7816df52cdd61b4746fc53ec34d,Specialty flower bouquet from Bloomville.
+1748870899,61458c55657e960a707bd73d19654df4275127ec68a877e34b90c92af4e4e176,Index (1/2) corresponding to the global variable table initialPets
+1748874224,53a33312bedff538f54ce7d5f2385b903b2ad7944108e6150aee463eb93020a2,"Increases Damage Amp by <style=Hint_BgD><customRichText(getConfigData,rogue_talent_data,34,param0)>%</style>."
+1748916408,6578a989303194f9bb0dacf6c1517a69550369403d494d033b5e57b597efb9d7,"Their wool becomes <style=Hint_BgD>like a dark raincloud</style>.
+Even their attacks are different, with <style=Hint_BgD>flashes of lightning and rolling thunder</style>!"
+1748921713,78ae51cb8a2e2987e0a2c83e9895ff97924c006eb6f48548c271e7570032707b,Encounter all different forms of Nimbi
+1748946156,107d59cb836edc1fcbaea83c293eb05328f44d4bf979287552fa54b01ca66c83,"Delicate heart-shaped leaves crowd together in overlapping layers, each touched with its own sunlit blush of red."
+1902434325,107d59cb836edc1fcbaea83c293eb05328f44d4bf979287552fa54b01ca66c83,"Delicate heart-shaped leaves crowd together in overlapping layers, each touched with its own sunlit blush of red."
+1748951125,2a180d533dfd0c262955023aabc5c185570c4a53e734e26406b28a622099dcbd,Skill on cooldown.
+1748954724,77fc8aa60ff4fb0628c0f4af4a51f96887a5f25cead099bdc30b08b7cde419da,"Heh, a magical gift from the cosmos! I call it <style=Hint_BgD>Star Dust</style>! It’s just what
+the name says—dust from the stars. It unlocks an Aniimo’s potential,
+letting it develop and change as you wish."
+1748971588,0debaf4c7cf15e4772750a34f09eee4e63c85035f8cf59e7bdaa324892ba2143,Thunder Tail
+1749025210,31f5cbf825ef89f56eda6471039249bd83ce7d588ce26ce1c25c18d4ce7f06c7,Grrr... One more round!... Zzz...
+1749105947,67725fec24f4561a00c444e5cb1b5d8271b3b77b7871d3d99136911ebba9b576,Select/Drag
+1749117178,acac688c077438c1d4b83736d6d76c11ddbe3aa135dd361d2a14c95bf6eff8fb,"Preparations incomplete, cannot start the gathering. Finish all preparations first."
+1749151540,804af1428fc754f2ca85910458659e451313003edb2040e58fb4fcc61e6659c1,Aimo disperses into tiny particles and slips into my glove...
+1749155872,ed42f0a100c4727b03cfa3f913ecd12214fbcdc14596b1b750e322a1c4baf02f,Text detection service failure. Please try again later.
+1749162868,e5db4ea298f6e833d8aaa55a54b46f289b186537132c2c194a12d17fa1f172ae,Give Without Inheriting
+1749215268,357085ef4ea7a3366ab92009a0886df8ef79df88394ed85977db1f3c928f6306,Master Homemaker
+1749229331,d8a413cf1ec0c1c270298c864e1d2165b5244c0ee9d9f721c5d77cd44f46ef51,"Flower, flower, why so glum?"
+1749250459,86598c9ade21e4f374d714e409bb826e986c8cb7326c5aac3d6a4b9fdccd83a7,We Shrouts were just admiring the artwork—oh so lost in its beauty!
+1749288416,4091b4dabfbec8aca8a1f1600848f6a33aff3b171fa7f8e5e7b60e49797ab723,Check the Aniipod
+1749313700,a12a72a49505b5d687cd0c94ef0d1e42434c540914662efc103e69f4cba990ff,"At the Institute reception desk, Nai-li helps you complete the enrollment process. You officially enroll at the Polaris Institute and receive your uniform. She also tells you that the Holographic Discovery Booth is showing rare footage of Prismana Aniimo, so you and Nicole decide to stop by on the way."
+1749334055,6bcebf91253d54cdf45bb127615e064986b30e192de4a5a6166cdf8338d72bbb,Low Gravity Ball
+1749335139,c7c8faf6ed7ad513e4c7f197a3a23fabc7301e259c26e995730b8675d594631a,Glimmering Driftshadow
+1749346949,ad48ee421feebae807b95bd71a4a9ab302618144759e92fea15561d94ece04a6,3-Axis Rotation
+1749402721,e2b3dde766d3b12c44750a998bd6b9daadf557088573dec5ae09cd08e15614b6,Normal Attack BREAK Boost Percentage
+2112314389,e2b3dde766d3b12c44750a998bd6b9daadf557088573dec5ae09cd08e15614b6,Normal Attack BREAK Boost Percentage
+1749438032,63f65c11110db05a7105d5f0d7229395d579a812b69fb4e8b293da36bb54fb1c,Trendy
+1749440275,efad5abfdbdd950536ba5dbb41b9735b3ec58455b41f36f348c8c8ac318af284,Do you think Princess Melloblum truly waits under the tower at the far end of the Sea of Flowers?
+1749449205,7e6b9fceed19732ce138f6567f3ee688e037c42aec5c807eb8478371d49666c3,Material for Evolving Lumin Stage Spirit Element Aniimo.
+1749499417,ef228b9389e861ff14b2af6643a922dd2f3d3f1f557f90585e000b2178d02cbf,"During the event, planting the season-limited Moondew Crops “<style=Hint_BgL><link=""item_4001066""><u>Moondew Radish</u></link></style>” and “<style=Hint_BgL><link=""item_4001067""><u>Waxing Moon Pepper</u></link></style>” may produce special mutations. Discover and collect the different forms of Moondew Crops to complete the Index!
+
+Duplicate mutated Moondew Crops can be dismantled to obtain “<style=Hint_BgL><link=""item_4040034""><u>Waxing Moondew</u></link></style>”, which can be used to exchange for mutated crops you haven’t collected yet.
+
+If you haven’t obtained a mutated crop, you can send a help request to a friend, or give duplicate mutated crops to friends. Help each other out to complete the Index!"
+1749505342,60614772031f1b98b6d127b30f01aab4727a448c1ad8e40a10df0e4a306ee249,Hazel & Morfan
+1749517594,a8500bc61bb88845805097b131283bd07922238a716ff56cd4262cfbc9cb5221,Mi-woooy!
+1749531965,8feb60b7edadd3fc1dda0532751e09bb29365f2d92afb5b7e9bd1ffa26c54b34,Malevsera Alpha
+1981352883,8feb60b7edadd3fc1dda0532751e09bb29365f2d92afb5b7e9bd1ffa26c54b34,Malevsera Alpha
+1749540855,29242d45c6c0141a7ca1e2698eb2f45263a431a8ad874712ac80e3c843eea9f5,Challenge Alpha Aniimo consecutively in a party.
+1749543863,6d74394ee656f1caf64ef5e61cb23f85d1ede299345f76b688073be4af1c5a2f,"Clusters of delicate blooms adorn its broad, graceful leaves, creating an elegant display."
+1749556566,7734fd83f8566caaf8fa5784a8a9d8712ff15aa4d01e09ea54e5e116a588f649,In Zephyrus Landbridge
+1749565073,6c544320e0b38ce1b86324454b379e0f39211be53f012d834261f15d0c9919a0,"Mode (0: Common, 1: Common + Multiple Forms)"
+1749574300,bdbbf07500d9db47725a69cd75df985c94f72fc1bf8a02614faf37ca9d421366,"A couple days ago I woke up in a big pit and found I couldn't remember anything, only vaguely recalling that I seemed to have a friend."
+1749630611,ed33768e6b24372b9649599e6a9ff90d3794a1a30931fa84719eaaeed21c0d42,"Just as I expected, easy mode is no match for you! What do you say we move on to a harder, more challenging level?"
+1749666067,e8533b66a09c7568a327f005601485aedd6ea97a6bf2950c770705afe3e12946,"A voucher for Astra's Coilstrike Club, used to access the Coilstrike Strength Tester through the club manager, Tysen."
+1749682983,db1a871ad5dc1ca4a6e59d0466c5302e6c2edd8bf479e0868c100445d63a5c63,Clutter (Construction Debris)
+1749706925,ef6691545d2c5523efed00424407cb261aeb0037d165ca5792f7f8bac3381362,Standard
+2067284594,ef6691545d2c5523efed00424407cb261aeb0037d165ca5792f7f8bac3381362,Standard
+1749722508,c1873d6bb89d55402a01872d20253983d5f49b40022649e2376b9f1f439e5496,"Well, see you next time!"
+1749782795,ae1288474377ddcb10a9ff9d47bf265e8f5a0db440d31b391a19591bc0c83992,Adjust Fur Layer Count
+1749789169,268c0eed9354529a8a0b6af937139ede2a8d1e9568ff73eebfc7ff69f06946a7,"When participating in a <style=Hint_BgD>Wild Surge</style> in a friend’s world, your own world’s Prismatic Energy will also receive a moderate boost."
+1749803252,c6a9ca91fbbe9647ed33e75703cffc188305f937d86f68a2be3b5b7e9b09891d,So you intentionally tried to create a perfume blending flowers and butterfly shadows for the festival...?
+1749822891,8bf3e9a0e0808fd49ff9a8ec11a733f81160c1a754d09ec1d2d300b8cfb444f1,"It’s been observing humans and Aniimo, trying to imitate what it means to be an Aniimo."
+1749824238,36c625b144f27750dc49dbb6f30da032711af587adc227f4182b8365e298ac67,Give it a try and you’ll see!
+1749831810,962bd1e19c18f56f0768ec2c504c53ce7bdfc44aba01b04dca926b36d391e47b,Irelia is restoring HP and building up power. Break the shield to interrupt it!
+1749872747,eac809e941f9160c210c79323f6fe5a1cbbd96976efa6f83ce385c69afa491db,"Deals <customRichText(calcData,buff,9105501,param0,1,%d)>% increased damage to targets with full HP."
+1749877060,60f6dbbc7589ee0406addffa5cadcabfa235c8a897d771544370b3e7d1319976,"Removes all debuffs on surrounding teammates. Once the debuffs are removed, increases their EP recovery rate by <style=Hint_BgL><customRichText(calcData,buff,2123102,param0,1,%d)>%</style> for <style=Hint_BgL><customRichText(buffConfigData,2123102,duration)></style>s."
+1749948586,46e978d0c19397c7d0318f6440950c15e046f5841a0feb03c35fdc68e1dfc68a,Shortcuts
+1749953216,37b821dcd8e6c2aad7280db348cd4cb79d0e9bbbcb9a8b5f7cb876ed679b1b38,"Clever-eyed Helmuts pad their helmets with fur shed by other Aniimo, keeping warm enough to venture out even on snowy days without freezing stiff."
+1749964369,d6db65de1adc3b98ec8e693b068f307b2469c28cdbd63af2dbda9ccb13101c64,"High-heat stir-frying brings out the rich aroma of chestnuts. The golden flesh is tender, smooth, and naturally sweet."
+1749970457,44314e2df244b0e2cc93c4ad9c3e79db293236dbf63ce97bc76a9e6c933ae017,Furniture Blueprint: Harvest Moon - Osmanthus Rain
+1749984685,a2bba21ee7a5de8f81aa05bdb08d9e351f2c35aef631e2b1921e15943e2713e1,Story - Hummin Trigger
+1749989351,86be33b5c155b49f1683b3f035f9c7fe7bc7d949d96f022b4933b8428a053ec6,"Damage dealt is reduced by 15% Over Time for <style=Hint_BgL><customRichText(buffConfigData,91201072,duration)></style> seconds."
+1750009735,9d2e8648d950ac6bcb7f47782886d288962ba87805127de6125faf6a5a106294,Keep Off the Grass
+1750030757,c2577e188d987d875858ea5b3f02c447d44ab7d061ddb3f034c398adfca77b3a,If you are going to cry... I’m going to cry...
+1750094278,c41af227dc233ea5003685c746dfeee792e65bf8ed92357383670aa50046fc32,Relocating...
+1750127367,2c8b2b23667fb15b6b627e82144463d8a8727415649c71cfed4e7017c7199fed,That’s why Baleetles are always climbing up onto their balls.
+1750153106,2bbf785ddb81d717db4b8204e550c772467fbf89c488f465d6600832ff02deae,<color=#5090df>%s</color> wanted to take a short break lying down but ended up having a long dream.
+1750184091,376f4b1b283a8a460c660d8de7e9d414818ec01611bb9973f65d6148867aec66,The more Whelpies the merrier!
+1750240138,70c7bb9f5047efdd416c18b6d031f7a6a2cd87c9b32f773781746f4d20307c31,Heartbroken
+1906900623,70c7bb9f5047efdd416c18b6d031f7a6a2cd87c9b32f773781746f4d20307c31,Heartbroken
+1750405950,861af54f72de981d8816869134af5063bd5f8358771a189f0344fb4d112d3bad,Han
+1750440254,ae4b8fece65afa1faf5e70ec059b06fa63be6223a4271fec9669bd6c85f2b00c,Un-swappable Aniimo
+1750476452,374b90dda4ea57e58ba8b021bd32b88b97e4eeb803c216a2cb0d2e3663b2a4eb,Thorny Heart
+1750484998,81bfbf5a3d61333ac8dd2c2db472ebd49dd64002555e405990d51f3602ea72b7,Mark Type (-1 for All)
+1750489512,1bfa9144a51dc7c588c99a1dbe71e18cddb3b7c04a690a5d8d12b965c488a35e,This move is my favorite! Rolling around is so much fun!
+1750498106,b21b5ec63dbf26914b02922022ff93c1f08b5ce2194d321c18b0d6c94c6f1e0b,"Ah... they’re still discharging their electricity. Careful, you might get shocked!"
+1750501812,953d6b19fca27fbf490e36cd59c3ca573817337d1b12b9b52ddc448b5f232d3f,Hold to view item tips.
+1750502615,bf7b8484f0ff164485c4b88f38f4d3f145c983c1e03b3f10bbff6a8dd779c24e,Total Food Energy
+1750540079,d3046f6d5227b8b7e6a62496e0452e5565bbcb167daccab0ab71416063123db0,Aniimo and Monster Stat Validation
+1750541211,2d632a90305ecfddefb30bbf37116b056e8d4d95eb4cf5165107443c1b4783c0,[Flourishing]
+1750648747,9fa2abc6d4e5f132f600093743077f29f117fe6aa99bb0aaf5f4390808946fbd,I heard that the caves where those cold dudes live are also haunted! Especially at night!
+1750648986,bd4bf9c72617bdbb1629f55b54d3590f94c2d6160c0dd7cc23e6fb3dddd85266,Absolutely brimming with atmosphere
+1750656249,6260f8fbbae5f336628206f7a735796f9906601dfb663b1ba006bb04bde581ef,Whalesong Blossom Emote 02
+1750658408,412210f0e3328af68d9f1b177cfdd51fb6ae79ef817b188d773a5e61c5bfc5ca,"Cannot act for <customRichText(buffConfigData,2145402,duration)>s."
+1750682131,aba45821e25428537916820e936f52841423bfe631e7bd3777cdaefb99ddcc8f,"Irises living in mountain forests dance among the verdant bushes, their petals glowing with a lustrous green hue."
+1750705869,2c668892993a7bea75d5dc9a37061fd45519b98a7cb3ba28ab72dd8d8a34a864,Dreaple
+1921385507,2c668892993a7bea75d5dc9a37061fd45519b98a7cb3ba28ab72dd8d8a34a864,Dreaple
+1750740346,4e825a86ad99c2496cd2b8d4851186338d0c3c1642b15409dec9ed53992176fd,A hardwood support column topped with an elegantly curved bracket.
+2039051467,4e825a86ad99c2496cd2b8d4851186338d0c3c1642b15409dec9ed53992176fd,A hardwood support column topped with an elegantly curved bracket.
+1750748552,e3e6cf31db8a5e9b533086b9b29771d58c1b68d15f7a00e3c011c2baaf77cdfc,Fire TP Reduction Bonus Multiplier
+1824243083,e3e6cf31db8a5e9b533086b9b29771d58c1b68d15f7a00e3c011c2baaf77cdfc,Fire TP Reduction Bonus Multiplier
+1750761545,29ff1420fd1f368bbcca5e82d4938667f9bf1337cb9a24f20b1e631e8a64a75c,Is this his first time in Astra?
+1750769889,f010e2cc234ce406d3352ca4c25c45b64f91731db2508fcd9c6459b81bfd36f1,Your promise?
+1750776443,4124f643e98042458430985b3f113df3fa3521c82892fce7eb694b8faaf8d86b,Timber & Table - Wall Cabinet
+2141748349,4124f643e98042458430985b3f113df3fa3521c82892fce7eb694b8faaf8d86b,Timber & Table - Wall Cabinet
+1750802109,47be1ca0d6b8d768cb9e20924ff40d804a654f5733b2057d369886d416cf3a33,The Tubster Joins the Band
+1750804837,a414d8ed662773ff2f8c2b70ef574d2b23196ca30127017796e18cee4fd2a14f,Wooden Stake Template ID
+1750805361,10a3f32e8cf24f1fb099a4e36c190e35e14b682c2fbd7c3f8794189779272003,Clearance Sale
+1750815114,440864e6896f0ff17f92a447bf14765f4b33dea877aaee17ca495e654c6c773d,Reset Aniimo Retained Uses
+1750877195,54420cc4f914c71f698cd49d6275d89aad0d402718907c0fa21189b1378e0577,"Quick, get the camera! Bolty’s showing off moves!"
+1750878097,0e75ee1c8492f809cc6208a587b7acb4f561d64ad0258d2415fff1d2b1727483,"In a flash, the figure before you takes on a different appearance..."
+1750882283,6c102e205d5d4dbc67ee9fe82c831c8c26bc0d94de9459ad39d364072e255262,Open Tips
+1750887970,369374106a12b6ace640f6ee2aab4ec607d5bf75dfc8527b889effcb9f9c4e5a,A weekly benefit from the Season Shop. Open it to receive a random reward.
+1750890633,8eef460bc591a43ae24e2faa289c606758c2fc85f11ba46192f9db91046805af,Callum
+1750922037,4486b0964550ecfb7aba8f7ad615dd09892b41ead6d7bbad38c49d17f1e43653,"Johnny finishes his race flawlessly and evolves into a Waleetle, realizing he only ever feels perfect when out on the track. He decides to seek out even more new tracks, determined not to fall behind the Perfect Racer everyone talks about."
+1750950333,72c7f63362f72d1236a5ab9b3c33f2f49f8454876d78ee4643ecdc9b577c2a78,"Long, long ago, Driftwise Meadow was a world of pure blue, tranquil and wistful, until one day, new life was born here—the Fentuft family. They were lively and joyful, loved being around others, and invented all sorts of games. Over time, this blue world was bathed in dazzling gold, bright enough to melt even the ice and snow. They were a new form of life untouched by the age of colorlessness, a small but vital change in an endless cycle. For after the colors fade, restoration is never as simple as returning to what once was."
+1750957854,b4d5b87439757e7e6b50a8c1065f8bc0c00ca18b92f093a5c5397611b0bb80b5,"After hesitating for a moment, I relay the Irises’ concern to Sunia."
+1751020940,0a59f5ecdc514b8bad0feb35903b89ecbde7c82308befa505ec0af30efb61021,Pending Check-in
+1751041499,e93ca28211f09ff149386104838b6ecf624a2c46043149af0c8d6a1ab35aee79,"When your RV reaches <style=Hint_BgL>level 5</style>, you’ll be able to purchase this plot.
+Clear all debris from this plot to receive <link=""item_4001064""><style=Hint_BgL><u>Wood Block</u></style></link> *<style=Hint_BgL>4,180</style> and <link=""item_4001065""><style=Hint_BgL><u>Mineral Sand</u></style></link> *<style=Hint_BgL>2,240</style>."
+1751090153,1787ea838a756c60c15cceab0f0710923930f8159ecf49b45f6a7c4fe38f1ed8,Skip Velouria’s Departure cutscene?
+1751090441,b54c334e17cca41deb5abd692dee7cdabbf7f88fa36c7136b3aa2f1b6e6f937d,An egg containing the power of Prismana Scorchhowl. It is one of many Prismana eggs collected by Polaris Institute during the Prismana Flow caused by the Bloom Festival ten years ago.
+1751097326,8ed6252381391092e9a94befd578d3f3a829de9225e9cddbdcfd6bb634d2a9f1,First step toward my dream of performing onstage: complete! Come see my improved performance next time!
+1751098215,0301ce820a61103a8a71224e94d30f15620ee3b06e73f9035118f9929b2cb365,"Congratulations on safely completing every goal in the Elite Training.
+The reward mail’s already been sent. Don’t forget to check."
+1751098450,18927c8ce044ce12697fd2c29fe7b473c38922b124681d22d4bb4297a4dd34bf,Wire Port_Sanctum
+1751116149,30288e006e36111d66947ad14f8f03c402ff1c16bd85a83b4a78dfd88330760c,4-star
+1933233480,30288e006e36111d66947ad14f8f03c402ff1c16bd85a83b4a78dfd88330760c,4-star
+1950799040,30288e006e36111d66947ad14f8f03c402ff1c16bd85a83b4a78dfd88330760c,4-star
+1751151855,6f77fa0f82c8151200709954a68eb9498dd52b1416939446058f1868feb081db,Institute Guide - Holo-Battle Sim
+1751154220,4cf53720cbaa25a7e20c8a9d107b022d91311ed65b586fbb4abfa1892d1611ac,Wooden Dummy: Retargets Enemies
+1751179453,5cb8732228bd7716024c6d483d1aaaccba2cb3fb22acc35de1ab089e16c27479,Style Contest Registration Now Open
+1751223210,cb12e317ed1e94af6a66e2cd173dca7b35923c852af26b0c6959b1897f5b73ad,So energized...
+1751225109,ed4be40dc9709c9533bef1bdc4f8794a5f600fab271ffb8ec95c19b23c3b0d4b,Don’t be so picky! Good promotional copy must be simple and clear. One glance and you get it. That’s a perfectly good tagline.
+1751225365,7c8d43df0c1a19ab0f177aac818c30034a45c19f64c927341646478bb794dd43,Huge Cotton
+1790338706,7c8d43df0c1a19ab0f177aac818c30034a45c19f64c927341646478bb794dd43,Huge Cotton
+1935161104,7c8d43df0c1a19ab0f177aac818c30034a45c19f64c927341646478bb794dd43,Huge Cotton
+1751255401,922d5ad40bffe2b6049630c4795215d7733941e2bdcb65a89f132ef71429a252,"""Helmuts see what Helmuts can see. Dragons see what dragons can see."" Old saying from the red land, that is. Dunno if it’s any use to you."
+1751266351,02931c4623c2d2715c900541def620eacffe0c85f9470c61a7085c30df97fff6,Character Gaze
+1751269996,d8bc4964509ab0c7279a6a839a9fbaa4970dbb4f8107d33307675b912c489b77,Different items may require <style=Hint_BgL>different currencies</style>.
+1751317863,05fb18b1eb24c70b57fd4199a3db9653d95886dd36b8476827565e10937a4182,"Blooming flowers, sweet fragrance, wishes coming true—
+And that radiant <u icon=""Symbol1"">Prismana</u>...
+The long-awaited <u icon=""Symbol3"">Bloom Festival</u> is about to begin!"
+1751320094,719d8be167b2ce27820cd55e11816eeb87281baac8f0cdee97ffc0f7550e02f8,<style=Hint_BgD>Aniipod:</style> Basic item used for catching Aniimo.
+1751336609,1dbde96f19a901364dc3a7b461c25dc2220c0107860d8d5c19a6ec3121d234cd,Ulterior Motive
+1751340749,da7158ac3de836a2322d3a5ccca5be7e09461b439254b618a3cd8f25b411a766,Pollen of an Iris. Necessary ingredient for crafting Guiding Incense.
+1751355516,82849e6cae6afcce2111835bbe4e1e84813286836e874db42b7161611c8a21ff,This object is already under someone else’s Gravity Pull.
+1751371673,6c74474cd98ac07da4db38826e99f4bab73458a48c0eb80a5ea33d564899f3cf,Press <style=Hint_BgL>Skill 2</style> to cast [<style=Hint_BgL>Tackle</style>] to attack!
+1751376328,39ded4688989e964c1bbbff652d7b519cf41dee3da1156577cc884dc26db43ac,Aesthetics Ambassador
+1751383427,66a8bf693a210a45703144649618b3638292706aa85fac4e432dd81441e979e7,Check the Aniipod Ultra
+1751388239,9cdf8ac33dbb97ef94e70a203d79cad63d2a307d87dca5698f44161223b5c800,What do I do? Waaah...
+1751389849,5f3bbcf31392101606f100dcc55c9167584fc22c8b233af9a6cea038ad0c5ec6,"Look! I’ve become a Sherro.
+No more Susutas dare mess with me now. I’ve even driven off a few that bullied the other Shellies."
+1751389936,8e88dc5f5c7477bcd55d195611ac869690920b1002834929663670ffdb012d85,Summon Aniimo
+1751425826,c760a0da0cc6b52f5ffee28778073e43119cb5ad491bacb11f10ed9d80b05f1d,"Hurls an empowered fireball that explodes on impact, dealing area damage and inflicting <style=Hint_BgL>2</style> stacks of <style=Hint_BgL><link=""source_8038""><u>[Fire Debuff]</u></link></style>."
+1751441671,7deb6f84db79a9ef88931d34d2ba0d363b8e6433fb84e980fe34b572e97ab211,In the fog
+1751442481,85cf2e9d613c152144e5ee7dd624ce551b9c6128a877a0942115724b4e5e4ebd,"Wow, I see..."
+1751453816,ea4657e7a52fe0094c67511bccf08f5bdcfd4c0732b694358868d9a991445c79,S1 <Departure with the Wind> Keepsakes
+1751493664,568a4c46d4a91fea48ba6c2e68e0399dd2a35bf803b5f524e53925db8cde43d3,"You or the inviter doesn’t have any Aniimo yet, so the duel cannot be initiated — invitation failed."
+1751497926,a6318d484e7ae6736bf3316dbf62544f6fe22812ecab7d1043548a1ef206e24a,Yama and I will head off then. Enjoy the cozy little home with your Aniimo. See you!
+1751512011,d241b1feac070ccb9e169231f0a0bbec66862bc6e5ef65a3cd7804f9e133defd,"Each stack increases Gizmo Crit Rate by <style=Hint_BgL><customRichText(calcData,buff,20400030,param0,1,%d)>%</style>, up to <style=Hint_BgL><customRichText(buffConfigData,20400030,maxLayer)></style> stacks."
+1751523482,6ddd769034022c4b169eaae67b7abcbba4337f1142e1fb2ac2159bb9d9fbc989,Floating Lily Pad (Non-Capsizable)
+1751531616,c54b33a3996fdf0921272f8a551bb771dbca211e38905de356d2d0a413e3e35f,12.34.56.78  BJSLSOCSSD
+1751559979,2cc4a0c6b99181d07e84db9454843ab5a90ab73dcac8e6e180fe8655b84bd43e,"Right, will be on the exam... rite it down..."
+1751560683,da839746c70d9f7da86eb7b620c1dc70dd5c5192c83cf861c45154b8c1d18feb,Select maximum number.
+2109108926,da839746c70d9f7da86eb7b620c1dc70dd5c5192c83cf861c45154b8c1d18feb,Select maximum number.
+1751600812,6b81b842590c7b268f5153990ecd002cfeb2ea11af6556b7d4178f1bb7325406,"Helmut has no idea... It’s just that Whelpies are so mean and scary—they keep bullying us Helmuts, so..."
+1751647908,ae5ab420690b58426c6f35dbffbab38cf628614662cf68e14f408b1b55261fc2,Matchmaking in the specified pool (non-fair PvP; please use pool IDs above 100)
+1751652018,79a4cce4fa33fc202ee0e9a4df8589954b3b87b67a79bfa5182b73fc88a9cb4f,Companion Handbook Premium Level 83
+2081361626,79a4cce4fa33fc202ee0e9a4df8589954b3b87b67a79bfa5182b73fc88a9cb4f,Companion Handbook Premium Level 83
+1751657036,71f236d9521288aefb40842a8071ea7cdfed30a66a7a246374540d2764230605,Gulu... I’m too hungry to move...
+1751660420,f4f62e4e09fa373073d0351c7fee68b448a543a16f79e2b25c07f10b95d3aed2,Refresh Battery
+1751701722,0583d42baebbb61c7d57f1b22fe9b2510e3456fa85f7fd330e89c18b6020fb49,Now tap the [<style=Hint_BgL>Learn button</style>].
+1906931161,0583d42baebbb61c7d57f1b22fe9b2510e3456fa85f7fd330e89c18b6020fb49,Now tap the [<style=Hint_BgL>Learn button</style>].
+1751750947,41805af08ddcf10e4526090568e33286d4a2138c9e8c2fb480482a3a8d165a22,Both recommended attributes for this Aniimo have reached their Acquired Potential limit. No need to use this.
+1751766364,e75d6eb2d0ac84c6b960f654c40f556cb43c85ab9142c4676787d7c8a1353617,The battery seems to be missing. Use Helmut’s <style=Hint_BgL>Detection</style> skill and search for it!
+1751767540,03f8c63171bf7b29aefc77679ae925dafdce179228ce278d4a5ea045ad8dad4f,Unlock plot 16
+1751782356,762f2af428949d264db2e7bc4557b11ba2a500183419d0b1571a9e9a372d4b55,"A giant Training Coin has appeared. Reportedly, investing a batch of Training Coins can multiply them! Higher stakes mean higher risk and higher reward. Short on funds? No problem — you can go into debt to invest!"
+1751848956,cee2f35b9906c6a425b7fa201bf0a1ea5f9d5ba53905a43740920a715fd515b7,External targets cannot be tracked in this scene.
+1751905437,b2af29e32762b8077f53829b4f7e369dd094b62fdfe9b59bbb712c869e66f38f,Simple Stride
+1751914934,4ca1a45661636b8cf38db995c3befbdf3e1d54cf8b24a62c927e3bd6b19a7cd3,Hide Interface
+1751920625,3446c1fe487f6cfa0e6f074c6addbb0f26f2412e258ba772fbd2bb0e473f8bae,"N-no, don't do this. You must be joking, right?"
+1751925858,53d6b80f6809560f5792587f4cdab631ad52fea4806fb80cab667d824c2ad1c4,Why do you have to be perfect?
+1751975377,020e62649941fa032c0b0fd42662e4a2f06d7d05cbb12fad3f4628330f8147d9,<color=#5090df>%s</color> finds today’s weather too good for sleeping.
+1752038595,06d5c532e9335d79530f01efc65e5b17299f32cd96a42c733dffbd41978e4fed,Voxel Shard 1 Photo
+1752040441,ba91c4e1e8795ef2e43326d809f977f3fb3d3eea8ba5a92b94dc9906928b39fb,Catch this Aniimo from behind
+1752053763,8ced508fc22bc7dbc950de308b6dbc42818ae0863ce732191150136bb2422736,"Now, thanks to her cultivation, the place is full of flowers..."
+1752085990,d792b4203db33658f05d7ab27b349522d776da3905a3d52bfeab12d14a229b66,"A light-dependent creature that glows when night falls, keeping its light on even while sleeping."
+1752112832,07ad66c0ccb2a58d885ac6a1f439e4afda37666442f54a2220cbf87c81235d0c,You look upset...
+1752118636,67f8e14dfbb418878de76afa3403438daaa908fd7e6ae433f4568ed16a3479fa,Huh? You mean...
+1752163085,6f737673cc03872ff68ccd6e3b83517927836f047a0dccb7012a18d1a75dd0d4,"When Affinity reaches level 3, you can send Snapshot invitations to friends."
+1752166157,c880a32504a7fe688c856bc259a59e97cedc6feda6972ec3db2925239c39db01,Woodland (Level 8)
+1752175638,b7ab00db8ae2ffea225a9afe7475b1bba9eba69e5b87a0430fd6225212e2bb84,Specify the monster's Entity ID to make it easier for the client to monitor its creation.
+1752205419,45d5c35d173931e47b6b7062bdc3d1a4e4534203c36ddbd140cf1e42a9cc8006,Great! You’re finally awake?
+1752212693,c711d53d47d51abe1cf3fa2b5d3487b5e599b5a4d15394da157a4648390fa0d5,Quick Formula: Quartz Ore
+1752226330,7272ca1e0d5b0f07bd4316951c6f3c0b045ac50c459df4f91bd8604667e78a33,"Nicole, please take #playerGender# to <style=Hint_BgD>rest for a moment</style>.
+Your two Aniimos are currently at Aniimology, so there's no need to worry for now."
+1752228284,0605bfe7d29cfb7638aae7cbe13b3c86c54483809f8e956237f8db77e7669b26,Increases Final Damage by 25% against targets above 70% HP.
+1752270154,ac3ad609e6261fc165fbaea00e9d917a142fb3da52ce9c788082eff189b11bd8,Theme fit score:
+1752271841,448b58b11c91fac486ba86a08f5f9c84bef45a0fa668e5d3b1f7c671ed572d06,My head’s still spinning...
+1752297466,3174efdaff7d059b46c35cdd556908c72d2317293c479751f4995844a5ccc93d,Dora
+1752299500,f6c0e28548bf89b3ff50d9ae1c06fe34f06fc2e3476282ee69eb7353d1f14f79,Lie Down
+1752317621,a293f93661de6613a5317a2a51a73823a950aabf0ed0474adf168568e65bf492,"Twine with an Aniimo, and tap Skill 1 to use its skill to charge batteries and power conductive objects. Wet surfaces and metal objects both conduct electricity."
+1962372194,a293f93661de6613a5317a2a51a73823a950aabf0ed0474adf168568e65bf492,"Twine with an Aniimo, and tap Skill 1 to use its skill to charge batteries and power conductive objects. Wet surfaces and metal objects both conduct electricity."
+1752337525,5da537f3dd4cfae897c128427e64ef2b75b6e96da3f85cdcddd9186e5b736e08,Pete
+1752351491,2a810d5ab94c2f42d14331956bc025ea1626de5e0f4b7a9656c1d4eeb802dd97,"A bracelet strung with round iron ore beads, crafted in an ancient style."
+1890700596,2a810d5ab94c2f42d14331956bc025ea1626de5e0f4b7a9656c1d4eeb802dd97,"A bracelet strung with round iron ore beads, crafted in an ancient style."
+1752426386,e062d5ffb4b2fce7bb920f92b0d9bd46250347ddc1ffa2f4ea8c1248334ee443,Magic Damage Boost
+1752451324,7b3091d59ac78a86348cb69e230adbe29d3d5c599ca186988eac06f5da71d982,What would you like to know?
+1752548198,becac3ec6035f797a8cfbd01931a7ae8e453fde7cb4f58fddcd0933d1c30157c,Oof... you won... Fine! I’ll go find an Aniimo with better cleaning abilities and continue my mission!
+1752581423,aa7c1ac098a193a176906f01eed757636a30ad24ecba20e9c8081eab597af710,Complete Quest: Is That a... Lighthouse? and return to Sayn
+1752623700,17cb35cec3e1a05576cf03fd94c39bb757baf829b281f27545ce6f058d2b3146,"...What happened?
+Was I <style=Hint_BgD>dreaming</style> just now?"
+1752642683,ccd954c868bbbf5dcd08d5fa8167908be8eb3dc6eafd8a5b675db27f7d7c7dca,Nimbi Felt Toy
+1885794715,ccd954c868bbbf5dcd08d5fa8167908be8eb3dc6eafd8a5b675db27f7d7c7dca,Nimbi Felt Toy
+1752658219,6300702f9fc78b494457ed323563b1c9348e29e63cb6d713fee46d32e62ed426,"Unfortunately, Popapuses don’t have that feature!"
+1752666222,29cbac801240fb4a608c485917ce847551450642f55dbcb6921e15fa385a5209,"Well, that’s a wrap. The ending wasn’t exactly a plot twist, nor was it particularly interesting."
+1752768822,703d7983792fd3880b1e734eae766a9f1fd287ac6c97404ebcb3aad0bf13aa8d,No Backpack equipped!
+1752802301,10c92adf236c2e64be2254e5002e1e842a595e1d9b451f92015d1abb3207acaa,An ancient melody from the age of Earth■■How is music different from code■■Why does it stir a shared response.
+1752805655,0718a011c0689d25338b3fbc0fba7f43a7003d91f0b9956e71c66f1bacc47e79,Timber Serenity - Viewing Basin
+1976500739,0718a011c0689d25338b3fbc0fba7f43a7003d91f0b9956e71c66f1bacc47e79,Timber Serenity - Viewing Basin
+1752815696,cc3bc3732d5177fec67dfc76febd5adccb2aa01b3c73e7f71c58d1c071fb62b2,Hula-uh-ah... hoo!
+1948602158,cc3bc3732d5177fec67dfc76febd5adccb2aa01b3c73e7f71c58d1c071fb62b2,Hula-uh-ah... hoo!
+1752822865,693d4d0faf8ef879b7485ed5d44bdc3aebbd342ca5b6d72d571cd5a76e2fad8c,A coaster for your Home.
+1752895994,860a5781eadbc1f4029d88b3cc7c088b96ca44a06e2bb276d4fec01b5d1faa9c,"Oh no, now I have no idea when Amy will be back..."
+1752937428,defaa1218ac8da096048ed780719365d3fa22e05c59e376830cdd3e24a29b980,Let's go <style=Hint_BgD>find Instructor Lita</style>—the three-time consecutive champion of the Aniimo battles! She's also my idol.
+1753012333,47a6c0484d97ebc56a902b9032045d1103cdd2d627e6e336bdd644b3bc71482f,From the way you described it... Can you see the colors of scents too?
+1753032947,f24b504967fb9b4bcde04ed4f8c7013b4bce4bb1f45515e7a3504d14c591129f,This looks a bit familiar.
+1753036070,2967c2ad313a15fc8164658c3d50712958e1a6d065a14eb5813e0b79e22f47cf,Alpha Crafting Material Source
+1753054880,6dc36dd7028f8387482ce9c0e53811e623a745f5794c74acebb980e628cf8a33,"Page 13
+Flowery came back to me a few days later.
+It had gotten bigger somehow... It didn’t evolve; it just had more life force in it, I guess.
+It was supposed to be a good thing, but Flowery was a little upset.
+————
+It pointed to the Idol pillar in the square.
+I was surprised. Was the research for Aeolus or Lady Irelia?
+But there was nothing else I could have done.
+In spite of my stronger sense for life and the so-called life florist reputation,
+I am nothing but a florist.
+The only thing left to do is to spend more time with Clovis Junior."
+1753088700,dced18e67635b261f22d5c4d2c12432aa4c1f89cbe9038654e4b223a3704ab17,"Gains <style=Hint_BgL><customRichText(calcData,buff,2102201,param0,1,%d)>%</style> damage reduction for <style=Hint_BgL><customRichText(buffConfigData,2102201,duration)></style>s."
+1753089101,0c607e5e3f97cfea648721a2972e2b9e9de3fb20ea6575f27d1266b3d5e23f92,"Well, they probably just mixed them up."
+1753089583,eb3e16ee22bd0c74f339a17ddc61346663175310d3cb62f77b906a3e9d973eff,Nicole’s Aniipod
+1753128812,c6fc98668791a6e8381fa250a2034e994dc5170d3414846430eef2e32512f239,"When casting a skill with less than 20 EP, restores <customRichText(calcData,buff,9112204,param0,1)> EP."
+1753194095,6d5f3dc6a69fd357b6337f8aa03f3b041c0259528570d681a73b390c341b3591,Tease
+1753209725,d2e7133e59d809315b4c34a2c9cbddc300d88c4d485b40df53fd665d53e9a47f,Show the power of lightning
+1753215266,89989f78df6af688b0755716bc3d2a4383c7d962263bc1399334fa61d6121b01,Character has reached the maximum Level Up
+1753269485,b961e9b7a7326798b039dc9ede426a710632bdd52bf3d34ae24a93c5dcc52c8c,Companion Mode is not available
+1753270300,1b4b607607b8c988d8d9b892bf063e9b9ba4f0440296f7dcaaf8309c0e785c50,Makes sense.
+1753275307,d48f39d295a71e6a53bcd6d96d860f5e946dc5089a97d5ca7e9ae721bc4a9555,Start over?
+1753308235,0e78bc9e861e4da2f3dd3d83a621fc577e6312ec27cf70f7fe04863a4453236f,Departure Perfect Egg
+1753313924,337fde9d28a0d659a810e4996f3dbad0a08f3a9fc41b361c9ffbe242063325c0,"Disable Pathfinder position checks, including Aniimo"
+1753318397,a81ef43a50006221a2810a2de453541cc7c6a0084df970a7e35b2f7b3717cda8,Isabella
+2018493196,a81ef43a50006221a2810a2de453541cc7c6a0084df970a7e35b2f7b3717cda8,Isabella
+1753343758,d5c811001e4f414c613a18d0ff5b5e5789e68d5ca720d3cec76a3d8abe63eedd,There's a Bloom. Let's light it up!
+1753344572,588a8a21fa53d28f1d33ea0cc79aa7b266ff9f7fec535a52b6afb156d59fe111,You’re a Pathfinder? You’ve seen a lot of things—maybe you’ll understand what’s bothering me.
+1753348845,10645efbfc8fbdff841faf2d6ca2d98f60d5c128bc5b7d72114f1e93425449f9,"But I think it will wake up sooner or later. After all, it's the Guardian that saved Bloomville!"
+1753351827,7369ca0b7601c1a61acd7cc1ee0f6bee8b88a957d9b6165c717cc87b6ecfd36a,Defeat Alpha Magmarex
+1881146796,7369ca0b7601c1a61acd7cc1ee0f6bee8b88a957d9b6165c717cc87b6ecfd36a,Defeat Alpha Magmarex
+2015754243,7369ca0b7601c1a61acd7cc1ee0f6bee8b88a957d9b6165c717cc87b6ecfd36a,Defeat Alpha Magmarex
+1753388670,536357206430d5b470e82ad93de81ed12047d6c3f13a20b3e07d54c1cba1cd04,"...No, that’s not it.
+The memories evoked by those scents just now were all touched with nostalgia."
+1753407708,7d007a03494286d1c4944dc7e481c4f62bb8feb3067ef4516a874acf1a4dc324,Cheekie Loveseat
+1908436851,7d007a03494286d1c4944dc7e481c4f62bb8feb3067ef4516a874acf1a4dc324,Cheekie Loveseat
+2032134272,7d007a03494286d1c4944dc7e481c4f62bb8feb3067ef4516a874acf1a4dc324,Cheekie Loveseat
+1753464406,993a0d7f396fead7da74dccd0c82086b3224c494940573605928dcd0cbf8b15e,"A lush vine climbing the trellis, weaving a canopy of romantic shade."
+1753505668,537f0c2f0a03e6fc81b33b3afdfd661780e2d0f9fdfd43c8f7acf4e3336d3659,"Rainy <sprite name=""UI_Img_Weather_Rainy""> (Only one will appear at the same time, no respawning)"
+1753513831,ba04bf39b42952a57051bf0f95b2ac4628f7fd9e3679b5cc1344a6408f6e520e,"Prismana causes Infergon’s Power of Fire to grow ever more violent, erupting from its armor as blazing violet flames, as if to reduce everything around it to ashes."
+1753527423,e0f26863e5545063f20c9452ac75c67b5f73733ff09f52a2093a27f62352cdb6,HP up 6%
+1753542063,ee1a24c58d7d31a05a508c587f57eccea4eb7b6220be73258aa4ea0fd365b688,View detailed information about this game mode here
+1753551700,d3d922fa5a39dbb557ab2fc0cce5ee725cd44f078a5e236a9b3bb9f70f646185,Voice Mode
+1753571808,e900353ac7c6bcfe65cd74c1cb522d2d6a0f3f241ae92edcc6d07ac896470d22,A pillar used to decorate your Home.
+1753579260,23c8ffcb618a7966147ecbf6253d090c9e88ee1f9f3872db5f5fc44c729aa00e,"There was a Held Item hidden inside the chest!
+Use it to make your Aniimo stronger!
+Grade III Students can use Held Items!"
+1753602997,fe543d17714151049b830d1b17a5b1bf875385018f7b4b080da1c6d226e7502b,"Increases skill critical rate by <style=Hint_BgL><customRichText(calcData,buff, 2000002,param0,1,%d)>%</style>."
+1753620510,0cc5d21d5d3170f65a28e1dd16946cc173ff8362f360116b8b7d8bdf32db240d,Mushroom Light
+1948685079,0cc5d21d5d3170f65a28e1dd16946cc173ff8362f360116b8b7d8bdf32db240d,Mushroom Light
+1753624843,2244e218b7bcc458fec7167c3b3a8ca5026aaf8142ceb36a91eed19e10070e52,"Before long, I became the strongest Emberpup—the strongest Flameruff... and even rose to become the strongest Scorchhowl, all in no time at all."
+1753729539,e5714262c906b6676f581e31143450948d64b107fb7e5cb56052331d32fa3dd8,A - Catch a new Aniimo
+1753792680,9fd35faa7828b0bc534625fe85e435f15a1b9004383e6401057b1ef4c73f724a,Premium Wheat Seed
+1753828390,7fbca4f575154f6db7f46571f7bdffd44d4fe6aead50b52dc2d89466aba5a1a6,"Glossy leaves drink eagerly from the sun and rain, reaching outward in hopes of growing a curtain of trailing vines."
+1788301574,7fbca4f575154f6db7f46571f7bdffd44d4fe6aead50b52dc2d89466aba5a1a6,"Glossy leaves drink eagerly from the sun and rain, reaching outward in hopes of growing a curtain of trailing vines."
+1753850646,675fc69c860d25e14fcf1889b9f2728db8c9215fcf3166cecd51b54cf7453348,Nina
+1855971945,675fc69c860d25e14fcf1889b9f2728db8c9215fcf3166cecd51b54cf7453348,Nina
+1753851619,f3df4f1bcc8f7db431dd4db178b5a31da4d2c6c12e5ed36626d714f23d5b91a3,Appearance Outfit Slot Unlock
+1753893574,90387dfec7c0c594df373250c75480e18abb6b0fc2d3546f02bc4b4663e1b1fe,"Before debugging begins, let’s complete the tutorial quest: ""First Home Trial""!"
+1753894558,42324000d98c8e04b5cc3b85399c88a54a933f067d56b8f4f9263d50a2d7cd0e,"It features a hard surface, a loose and porous interior, and a brown yellow color, with a mild sweet woody scent like coconut husks."
+1753984750,cb2635edeee17e0d75ec3cacf38e88016f9fe1752b94ea8a11e847b6c6372cbe,Higher Difficulty Monster Buffs
+1754025991,8e7c31b78b1e82a00e28dd41ebf930b81d5ef250dbc54996039dfe7bc8c28806,"I've made up my mind.
+Principal, I'm willing to join Polaris Institute!"
+1754028437,4f3c24714b718a9abce249c30c5ae187f30824a70c10c884483f918e3850551c,Reynold
+1866349457,4f3c24714b718a9abce249c30c5ae187f30824a70c10c884483f918e3850551c,Reynold
+2110469159,4f3c24714b718a9abce249c30c5ae187f30824a70c10c884483f918e3850551c,Reynold
+1754042125,9ab4268b3d47eaff017aa7a34f8827860a25fc25dab57e640a7cf980b8244e76,"Oh, and here’s something else—share and share alike! You get two."
+1754056264,1fa4271dd05cc1f6bd333cc25fd9c7e7a51c93ee08339c3454c376993585069d,Congratulations to the Pathfinder on winning this Aniimo Style Contest!
+1754058049,2b49f8513001b08894948c0a3e83984705fb9199973e4bfc8b139156cbe60574,"Relax, this is a guaranteed win for you! Go ahead and book the vehicle you like through the GoGoHomes system—"
+1754095000,0924d2ffd4a01d65c27b9ace6ebc07c1c58b4ede32cf4f6f81944037ea847bf1,Position (Placeholder)
+1754116549,51e81b7058286840299fd0d213530696ce73b00cce5bb6993dba2c02804bdfaa,Tidal Conch
+1754155047,61a9174dd9f324196f33e937729bcdc73ae68dc7edc24845ccc2dc38d95ec768,Unlock Badge - Meadow of Clouded Dreams
+1754184306,21272263b29348bb20f8b5badd6e7b248a54f93930ee0bd6f0fd7412c7954a5d,Movement Speed Load Penalty Rate
+2049351649,21272263b29348bb20f8b5badd6e7b248a54f93930ee0bd6f0fd7412c7954a5d,Movement Speed Load Penalty Rate
+1754198832,e471d3b279d5ef8932252670a1b87235b50f257098444843cb0ce978d9409781,"Twine with an Aniimo, and activate #kHud/ExploreSkill#z to compress visual space. Then use #kHud/SkillQ#z to break cracked stone walls."
+1754205708,eaedcda34cc53131ee2fdb7ca5d8c8b9dbc75335bafce5bc32936427465e339c,Enable battle verification?
+1754242566,5841dbb501669195cc9bf16dad083ee347582ac520dc411737df827c5d89d10d,Poison Damage Boost Multiplier
+1793248923,5841dbb501669195cc9bf16dad083ee347582ac520dc411737df827c5d89d10d,Poison Damage Boost Multiplier
+1754260961,e146c6c26796043341c97f9e6919d485cc31b186a3d7b75b1532c18288e231fb,A flame that’s more flamboyant than all other flowers.
+1754304184,d596fbf38264a97d8218d6690fea04d803a493dcb3b293ed7b8ace181434e293,Chestnut Brown Egg Hat
+1754305361,8378ff8423552ac985f9304db41acc801ed3992e614560809b5b894abed60291,"Congratulations, Pathfinder! Maintenance completed successfully!"
+1754312893,a8aaeaa64842375dde5046f8559d2d60a98e5d65b7023c1ddde650e857496ab0,"Clips from my livestream are playing on the big screen as the host reads the latest news about the expedition team.
+In the lively plaza, people and Aniimo alike stop to watch.
+That’s right. This is where our journey began: Astra!
+Here, humans and Aniimo live side by side in a modern city built on technology and civilization.
+After everything that happened, the expedition has been put on hold. Nicole and I have returned here.
+Now, I’m heading to Polaris Institute, the organization behind the expedition team."
+1754338373,4ce9704d1dc8f36c19199de13d96b42bf32bed2ce2e3a1a0b5d3982b1d5c24d8,"Ghostly flames burn amid mournful howls. The deeper the lingering obsession, the fiercer they blaze—each flicker the restless spirit of a wolf that refuses to yield. Successfully extract [Collector’s Edition: Wolfspirit Ghost Lantern] from Operation: Egg Heist to unlock it."
+1899074472,4ce9704d1dc8f36c19199de13d96b42bf32bed2ce2e3a1a0b5d3982b1d5c24d8,"Ghostly flames burn amid mournful howls. The deeper the lingering obsession, the fiercer they blaze—each flicker the restless spirit of a wolf that refuses to yield. Successfully extract [Collector’s Edition: Wolfspirit Ghost Lantern] from Operation: Egg Heist to unlock it."
+1754350252,3b850d06474e48d90835e5f6c4a0a012439c8d64d2c353e7b33fed8ad948a18f,"The Waxing Moon Pepper especially. Its fruit is crescent-shaped and gleams like moonlight.
+Apparently if you grow a mutant, you get one round and bright as a full moon! I’ve never actually seen it myself though..."
+1754356890,b180d67d3e083dc7b42a89419da59c7634f709bbdc8f249f9f7ea467faaec8ab,Lotus Bloom
+1941282002,b180d67d3e083dc7b42a89419da59c7634f709bbdc8f249f9f7ea467faaec8ab,Lotus Bloom
+1754363395,ab6a4f48e12aea016dfac5ee9707c3761d742870a61b2c12454f1ebee555094f,Meh...
+1754390630,d5632a19adba025a97189813e3a5d20b1f22daf8ea387a29a670e56215b0a18a,This is Bittersweet Dew.
+1754391355,6cc969b13d20c0649a4fd50cc27181ad9ba7605a544ee39e972e4c38890d1142,Helmut’s Gift
+1754420604,8bd5d172a61432ee7475c6af8e78ad312fd2f6752dc2134c647af4fa272e1eaa,Other Rewards
+1754420638,69c3d3627c373c9a18a50171d3c0cb46e7f0de80b2b2b85fd595f0e9a6982c1c,Skip Iris’s Dream cutscene?
+1754421636,801d8b47a846f423de8b4646ba6fa9e67109f4f6c7af9d453abe43faeafda7ea,You quickly share what you know with the Icho about Beast Fang Ridge’s many legends...
+1754446109,f4c2829ae231368962549f4076a0fbd749d76a6924af82c7b72507424123b2a7,"Very observant!
+Celestises adore stars that are big and bright. Pretty, right? They’re perfect for concert lighting!"
+1754459065,43bee1098b607225d8d9e4602c7a000b15237a151d9d370abfbdf80c3c9f61e2,Power Module Lv. 3
+1754464882,511c61729d0154669ce69c880a805bd7ad13095889f455e25850568fb40e734e,A blessed <style=Hint_BgL>rewarding</style> Sanctum—congratulations on your discovery! Dare to claim its treasures!
+1754535759,2127daf4b41dd2901cce972174a4a79c3f10aa6310bbb15df3595f4d4277ed23,"Hmm, it seems quite angry.
+<style=Hint_BgD>Twine</style> with Aniimo from the Eko Family and have a chat with it."
+1754547310,cc376fd4ba581700a2eb3367631c59045b237812571e3c61dd12124ee81fb441,"No... for a moment, it felt like I was having a really long dream...
+And now I can’t remember any of it..."
+1754566236,de8f3708a7979e08b042edbdd241729ebc795b06a59e52dd0b359fe4bbc93ae6,"Press <style=Hint_BgL>Toss button</style> to toss the obstacle
+Clear the way, then get to the next target"
+1754595140,39ef06463ebe27fc0744352f171ab31cc04ea18b9d7ad4a89b81f481d6807553,I was just taking it easy on you!
+1754632889,f600205133401da6988a76fd9fb6ea09180a9c27d895f6e8da85bd2a3dbc5b14,I’m alright. Helion isn’t injured. I can sense it.
+1754658413,ccecbe017f3878d0d456381bba62759e7615ff607349da1747f89e85d5b8f60b,Head to Homeland and find <style=Hint_BgL>BINI #2333</style> to view daily orders. Complete orders to earn rewards. <style=Hint_BgL>Upgrade your RV</style> to <style=Hint_BgL>unlock more orders</style>.
+1754661452,b13845aadeca223899185146bcc9a2d07b315ebf00e920d4d55918a4ef173db8,Emberpup’s evolution requirements have been met. Press #kRaw/GamepadButtonNorth#z to <style=Hint_BgL>Evolve</style>.
+1754665580,95545f94693ee9557462f18627d93b6288964fba0cfb20c5701c274ed91699b9,Banned Account
+1754725562,b5409c4d106c0318e850d718e261fe5d5d781b23886dd296e0e3f67d270d4dbe,A lot of people are heading to Tideblossom Coast...
+1754761705,66925aa1cfd952f4116cb6dd0c241505465271a3d60ba27f16ac42438a9bb7a4,The First Friend
+1754798534,ed1a3e19caf29e840c90a09a661646c4b04e88bdd9cbdff4fcd439b08a74f653,Chip Effect
+1754821047,f04c1514289cc97009361df2d9e8a4639d3544dc3b3e873a7b9079e65c2e0d84,Free Companion Handbook Level 23
+1923851357,f04c1514289cc97009361df2d9e8a4639d3544dc3b3e873a7b9079e65c2e0d84,Free Companion Handbook Level 23
+1754827222,778253ebb06bfcac8218b682c4e343e91905e2c9aa4d4b230c8df4fea7c0b25a,Astra Journey Placeholder 29
+1754843742,ff1f75c2f33f5f0baf3fe3ac257f1735bc5d135b25194695e12f8ed7c336d558,Lost 500 Training Coins!
+1754966744,946cd2519571a33d6a010ea07214218e8a44e9efa165c3a48682d25d8960c93a,Cannot place at the current location.
+1754985197,63c0e928c10fe351b00c12531342bf0723a1dfcd61f6a73daad7228f6aae38ea,How about a tail strike?
+1754986324,7d4c162187acaa59cc3b71688a931d000382608ae63794bccff09a014619d398,RV name cannot be empty.
+1755004413,bb0247a4cb25a7cf0b36764ef356c0d24031aa0fddc8ac0ab03eb8f6a2988cdb,"Summons <style=Hint_BgL>2</style> clones to attack the selected location. Summons 1 extra clone that gains <style=Hint_BgL><link=""source_8166""><u>[Super Armor]</u></link></style> for <style=Hint_BgL><customRichText(calcData,ability, 10550201,param0,1)></style>s while in the <style=Hint_BgL><link=""source_8046""><u>[Full Energy]</u></link></style> state."
+1755004569,4556f1b4a6e33697b00cfda7059af82dddf6262a2ff958a26a94d173581f35a5,"Celestises love hiding things in secret places, so keep an eye out."
+1755029304,1a3f17192ee9562a34130de4f3aa84db63c4cba0ece0449e2302f4b9e829aeef,"Golden crust cradling caramelized apple slices, crisp outside and soft within."
+1755040270,5e49e5343bb89541427a6304ebde8f9ba73216bd9abc7427b98f499567a8b01c,New feature
+1755051491,af7087deda1586b0a08f9bdd054f3ba3adff75071ea5c1ae42ac32d4e4549cd1,Too much pressure?
+1755056903,37a0f2427dfd9e0c2915d5d59e4246ea5c7a1dac324085ec494abb1a35fb8134,Place 10 Mines in your Home.
+1755073330,b8c108563d0fb2f5f4dfef6ecf299f0b8ed48af039a45f64d9680d7a6969f616,Eternal Red paints the pale dreamscape with the color of immortality.
+1755111391,51c2602e821cb139f3a3e5d147adfd65c0a68ea19fcd33e5ab2d4a390643037b,"Clear Aniimo, then reacquire all Aniimo + Form Aniimo"
+1755143123,1dd4bad4b17e36d0333abfeb61e883781bba38b9549833a0ac6b509b167423e7,Common Held Item Core
+1755175307,ed4754b2e266339a0bbedba33295b6f73d2d91b54ac53df59d8fcac960a83996,"Some of the little Helmuts who wandered off are still missing. If you find them, please help bring them back."
+1755185585,454ef06f1c2da47a80298db816516f6cc6004ed5a725c956a0fc8eda3fa76afd,Rookie Training
+1972114477,454ef06f1c2da47a80298db816516f6cc6004ed5a725c956a0fc8eda3fa76afd,Rookie Training
+1755202683,f738c8943dd29336fc0b9a65560d320ea8115fa053c4a05f336710013fc98d0d,"Friends who dress together, stay together."
+1992656900,f738c8943dd29336fc0b9a65560d320ea8115fa053c4a05f336710013fc98d0d,"Friends who dress together, stay together."
+1755204972,53b414e67715177749d91d9ecf34c7488d0c21fe8cfbea7c6bdd7a6df003ef99,"Please bring me a stylish dragon-type Aniimo with <style=Hint_BgD>a cold metallic sheen, razor-sharp eyes, and a star-shaped crystal set in its forehead</style>..."
